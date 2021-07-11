@@ -1,0 +1,21 @@
+-
+	Philosopher's Core
+-
+	-
+		Philosophy
+	-
+		-
+			A Philosopher's Core is a node on a Philosopher's Atlas designed specifically to
+			coordinate activity within a Philosopher's Atlas.
+		-
+	-
+		Principles
+	-
+		-
+			Philosopher's Core Commands
+		-
+			-
+				A Philosopher's Core command is an object that may be passed to a philosopher's
+				core through which it may be distributed to the rest of the Philosopher's Atlas,
+				after which another object may be returned.
+			-

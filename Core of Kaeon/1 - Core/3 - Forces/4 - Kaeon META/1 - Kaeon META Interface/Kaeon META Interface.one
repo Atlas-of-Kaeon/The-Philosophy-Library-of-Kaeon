@@ -1,0 +1,38 @@
+-
+	Kaeon META Interface
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon META interface is a Kaeon FUSION interface that allows a Kaeon FUSION script
+			to send requests to Kaeon META.
+		-
+	-
+		Principles
+	-
+		-
+			Commands
+		-
+			-
+				Literals
+			-
+				-
+					The Kaeon META interface shall cause any command that would otherwise not
+					return a value to return its content as a string.
+				-
+			-
+				Kaeon META Command
+			-
+				-
+					An element with the command "Kaeon META" when processed as a command shall send
+					each value returned to it to Kaeon META, and may return any value should Kaeon
+					META send a value back in response.
+				-
+		-
+			State
+		-
+			-
+				Once the Kaeon META interface has been integrated, Kaeon META shall be able to
+				modify the state of the Kaeon FUSION script.
+			-

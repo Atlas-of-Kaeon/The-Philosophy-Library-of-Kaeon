@@ -1,0 +1,115 @@
+-
+	Standard Angaian
+-
+	-
+		Philosophy
+	-
+		-
+			Standard Angaian is a written language based on the Angaian written language
+			conventions.
+		-
+	-
+		Principles
+	-
+		-
+			Layout
+		-
+			-
+				The standard Angaian language is written first from left to right and then from top
+				to bottom.
+			-
+		-
+			Characters
+		-
+			-
+				Marks
+			-
+				-
+					The standard Angaian language uses ten marks.
+
+					Said marks are labeled by their mark index plus one.
+				-
+			-
+				Character Types
+			-
+				-
+					Semi Character
+				-
+					-
+						A semi character may be drawn using any combination of mark one through
+						mark five, as long as at least one of said marks is used.
+					-
+				-
+					Linguistic Characters
+				-
+					-
+						Consonants
+					-
+						-
+							Each possible semi character represents a different consonant.
+						-
+					-
+						Vowels
+					-
+						-
+							Each possible semi character represents a different vowel.
+							
+							To differentiate them from consonants, mark six is added to the
+							respective semi character.
+						-
+					-
+						Punctuation
+					-
+						-
+							Each possible semi character represents a different punctuation
+							character.
+							
+							To differentiate them from consonants, mark seven is added to the
+							respective semi character.
+						-
+					-
+						Modifier Character
+					-
+						-
+							A chain of an indefinite number of modifier characters may precede
+							another character to modify said character's meaning.
+							
+							Each possible semi character represents a different modifier character.
+							
+							To differentiate them from consonants, mark eight is added to the
+							respective semi character.
+						-
+					-
+						Numbers
+					-
+						-
+							The standard Angaian numerical system is a base ten system.
+							
+							A numerical character takes the form of a semi character comprised of
+							only one mark, with either mark nine or mark ten added to it.
+							
+							If mark nine is used, the character's value is equal to the mark number
+							of the mark comprising the aforementioned semi character.
+							
+							If mark ten is used, the character's value is equal to the mark number
+							of the mark comprising the aforementioned semi character plus five.
+						-
+					-
+						Extraneous Characters
+					-
+						-
+							Any standard Angaian character that is not the full character, and
+							includes more then one of marks six through ten or does not include any
+							of marks one through five is classified as an extraneous character.
+
+							Extraneous characters may be assigned to any miscellaneous purpose.
+						-
+				-
+					Whitespace
+				-
+					-
+						Whitespace and new lines may be used to separate chains of characters.
+
+						A blank space shall have a character value of zero and a new line shall
+						have a character value of one thousand and twenty four.
+					-

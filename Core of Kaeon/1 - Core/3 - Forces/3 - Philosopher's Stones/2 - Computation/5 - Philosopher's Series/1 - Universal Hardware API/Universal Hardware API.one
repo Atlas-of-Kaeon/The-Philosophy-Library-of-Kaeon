@@ -1,0 +1,34 @@
+-
+	Universal Hardware API
+-
+	-
+		Philosophy
+	-
+		-
+			The universal hardware API is a protocol designed to allow programmers to communicate
+			with IoT devices through HTTP calls.
+		-
+	-
+		Principles
+	-
+		-
+			Protocol
+		-
+			-
+				When a device that follows the protocol is turned on, it shall connect to a
+				network, and shall host a web server at a domain and port number hard coded into
+				said device.
+
+				Said web server shall manage a service that may be used to control the device
+				through HTTP requests.
+			-
+		-
+			Conventions
+		-
+			-
+				Cellular
+			-
+				-
+					The network that a device that follows the protocol connects to shall be a
+					cellular network.
+				-

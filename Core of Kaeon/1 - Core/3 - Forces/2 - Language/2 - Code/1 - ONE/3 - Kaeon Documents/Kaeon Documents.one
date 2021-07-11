@@ -1,0 +1,45 @@
+-
+	Kaeon Documents
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon document format is a ONE document format that is used for formal documents.
+		-
+	-
+		Principles
+	-
+		-
+			Structure
+		-
+			-
+				A Kaeon Document contains one element at the root level. The content of the element
+				is the name of the concept.
+				
+				The first child of the element at the root contains the content "Philosophy". The
+				first and only child of this element contains content giving an overview of the
+				concept.
+				
+				The next child of the element shall only be present if the content of the child
+				of the first child is not sufficient to establish the concept. If present, it shall
+				have the content "Principles", and may have any children.
+				
+				The final child of the element shall only be present if the document is intended to
+				double as an executable program. If present, it shall have the content "Program",
+				and may have any children, which shall function as executable code.
+			-
+		-
+			Poly Kaeon Documents
+		-
+			-
+				A poly Kaeon document refers to a ONE document that consists of a root element with
+				no content and an indefinite number of Kaeon documents as its children.
+			-
+		-
+			Informal Kaeon Documents
+		-
+			-
+				An informal Kaeon document refers to any document that follows an inexact version
+				of the Kaeon document format.
+			-

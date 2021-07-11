@@ -1,0 +1,105 @@
+-
+	Kaeon Library Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon library conventions are a set of standards for how a Kaeon library should
+			typically be configured.
+
+			A standard Kaeon library that abides by the Kaeon library conventions is referred to as
+			a conventional Kaeon library.
+		-
+	-
+		Principles
+	-
+		-
+			Master Document
+		-
+			-
+				The master document convention specifies that a Kaeon library may optionally have a
+				single Kaeon document that sits at its root, referred to as its master document,
+				which specifies either the purpose of said Kaeon library or the overarching idea
+				upon which it is established.
+			-
+		-
+			Core
+		-
+			-
+				The core convention specifies that a Kaeon library may optionally have a "Core"
+				folder nested in its root, which, if present, shall contain all of the library's
+				Kaeon documents which are meant to be read by human readers, aside from those used
+				to specify information about said library's Universal Atlas connections.
+			-
+		-
+			Connections
+		-
+			-
+				The connections convention specifies that a Kaeon library may optionally have a
+				"Connections" folder nested in its root which shall contain Kaeon documents used to
+				specify said library's Universal Atlas connections.
+
+				The connections folder may optionally contain a "Resources" folder, which, if
+				present, shall contain Kaeon documents specifying information about resources which
+				are either contained within the library it belongs to or contained within resources
+				that said library is connected to.
+
+				The connections folder may optionally contain an "Atlas Connections" folder, which,
+				if present, shall contain a single Kaeon document titled "Atlas Connections".
+
+				The principles element of said document shall have a child for each resource that
+				the library it belongs to is connected to within the Universal Atlas, and said
+				element shall have the name of the resource to which it corresponds as its content.
+
+				Each of said children may itself optionally have an indefinite number of children,
+				each of which contains content specifying a location at which the resource
+				referenced by its parent is located.
+			-
+		-
+			Collection
+		-
+			-
+				The collection convention specifies that a Kaeon library may optionally have a
+				"Collection" folder nested in its root, which shall contain all of the library's
+				contents which do not belong in the core or connections folders.
+			-
+		-
+			Order
+		-
+			-
+				The order convention specifies that the core folder, if present, shall be ordered
+				before any other folders in the root, and that the collection folder shall be
+				ordered after any other folders in the root, and that aside from said folders
+				and the master document, no other items may be nested in the root.
+
+				If the connections folder is present, and both the resources folder and the atlas
+				connections folder are present within it, then the the resources folder shall be
+				ordered before the atlas connections folder.
+			-
+		-
+			Meta-Order
+		-
+			-
+				A group of multiple Kaeon libraries may be arranged in a specific order relative to
+				one another.
+				
+				Such an order may be referred to as their meta-order.
+			-
+		-
+			Book
+		-
+			-
+				The book of a conventional Kaeon library consists of the contents of the master
+				document, if present, the core folder, if present, and the connections folder, if
+				present, arranged in order.
+
+				The book document of a conventional Kaeon library consists of the contents of the
+				Kaeon documents that compose its book nested as children in order into the root of
+				an otherwise empty Kaeon document.
+
+				A composite Kaeon library book consists of the contents of the books of multiple
+				Kaeon libraries concatenated together in a specific meta-order, from which a book
+				document may be derived by treating the composite Kaeon library book as a single
+				book.
+			-
