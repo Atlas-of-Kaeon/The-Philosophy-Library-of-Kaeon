@@ -28,7 +28,7 @@
 
 				The fourth argument is the mutate function, which takes a single value as an
 				argument and may return any value. If the mutation function passed in is null, a
-				default mutation function shall be used it its place.
+				default mutation function shall be used in its place.
 
 				The fifth argument is the initial genetic value, and may be of any type.
 
