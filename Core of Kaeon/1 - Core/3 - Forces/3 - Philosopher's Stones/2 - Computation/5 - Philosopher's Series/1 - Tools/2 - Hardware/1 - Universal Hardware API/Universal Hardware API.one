@@ -16,8 +16,9 @@
 		-
 			-
 				When a device that follows the protocol is turned on, it shall connect to a
-				network, and shall respond to text data sent through calls made to a web server
-				located at a static address. Said calls shall return text data to the caller.
+				network, and shall respond to text data sent through calls made to an online
+				endpoint located at a static address. Said calls shall return text data to the
+				caller.
 
 				The network that a device which follows the protocol connects to shall be a
 				wireless network with an indefinite range.
