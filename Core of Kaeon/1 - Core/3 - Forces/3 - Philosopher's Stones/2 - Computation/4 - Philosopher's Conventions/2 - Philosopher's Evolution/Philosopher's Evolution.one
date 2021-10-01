@@ -42,3 +42,13 @@
 				replace the current genetic value, and the evolve function shall loop back to the
 				beginning.
 			-
+		-
+			Union Module
+		-
+			-
+				A union module is a module that abides by the generator philosopher's medium for
+				which the input for its operations is an object containing a list of genetic values
+				and a number between zero and one, inclusive, and the output for its operations is
+				a single genetic value representing a genetic union between the values in the list,
+				where the number is a seed for randomizing the mutations applied to the output.
+			-
