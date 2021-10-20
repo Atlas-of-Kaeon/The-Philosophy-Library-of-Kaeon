@@ -26,8 +26,9 @@
 		-
 			-
 				Kaeon United may itself be executed as application, which shall serve as an
-				interface to an standard virtual system. This application shall be called Kaeon
-				Origin.
+				interface to a standard virtual system.
+				
+				This application shall be called Kaeon Origin.
 
 				The data that a given user stores within Kaeon Origin's virtual system may be
 				collectively referred to as said user's Kaeon Origin profile.
