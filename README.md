@@ -152,7 +152,7 @@ By extension, veganism and opposition to solely retributive forms of justice suc
 penalty are de-facto tenets of the philosophy, as are the staunch commitments to defending personal
 freedoms and to establishing equality and prosperity among all people.
 
-However, in the grand scheme of things, one should always be strive for the ideal of Kaeon to the
+However, in the grand scheme of things, one should always strive for the ideal of Kaeon to the
 utmost degree, even to the extreme of raising the dead.
 
 But it is not sufficient to merely pray for such miracles until they are fulfilled by some savior
