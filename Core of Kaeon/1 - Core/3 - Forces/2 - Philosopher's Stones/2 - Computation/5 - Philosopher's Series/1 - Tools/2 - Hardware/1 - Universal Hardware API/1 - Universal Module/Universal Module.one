@@ -8,3 +8,13 @@
 			A universal module is a device that can function as a personal computer, and can send
 			and receive communication using the universal hardware API.
 		-
+	-
+		Principles
+	-
+		-
+			Universal Module Adapter
+		-
+			-
+				A universal module adapter is a device that allows a universal module to function
+				as another type of device.
+			-
