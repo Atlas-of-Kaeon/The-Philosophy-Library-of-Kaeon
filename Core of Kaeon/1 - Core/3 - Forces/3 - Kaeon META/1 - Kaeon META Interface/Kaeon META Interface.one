@@ -19,15 +19,16 @@
 			-
 				-
 					The Kaeon META interface shall cause any command that would otherwise not
-					return a value to return its content as a string.
+					return a value to return its content as a string at step three of the FUSION
+					process.
 				-
 			-
 				Kaeon META Command
 			-
 				-
-					An element with the command "Kaeon META" when processed as a command shall send
-					each value returned to it to Kaeon META, and may return any value should Kaeon
-					META send a value back in response.
+					At step three of the FUSION process, an element with the command "Kaeon META"
+					when processed as a command shall send each value returned to it to Kaeon META,
+					and may return any value should Kaeon META send a value back in response.
 				-
 		-
 			State

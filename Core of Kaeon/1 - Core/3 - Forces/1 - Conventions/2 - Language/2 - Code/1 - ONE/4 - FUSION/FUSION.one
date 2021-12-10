@@ -84,12 +84,12 @@
 				
 				By default, commands will do the following unless otherwise specified:
 				
-				At step two, they will perform no operation and will trickle down.
+				At step two, a command will perform no operation and will trickle down.
 				
-				At step three, they will perform no operation, generate a null value, and allow the
-				generated value to be used as an argument for its parent.
+				At step three, a command will perform no operation, generate a null value, and
+				allow the generated value to be used as an argument for its parent.
 				
-				At step four, they will not terminate and will not jump to another element.
+				At step four, a command will not terminate and will not jump to another element.
 			-
 		-
 			Error Handling
