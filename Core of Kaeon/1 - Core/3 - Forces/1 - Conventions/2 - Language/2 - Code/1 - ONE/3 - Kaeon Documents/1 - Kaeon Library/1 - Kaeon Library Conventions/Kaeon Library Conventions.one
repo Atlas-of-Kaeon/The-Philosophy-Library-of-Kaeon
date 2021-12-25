@@ -45,6 +45,9 @@
 				are either contained within the library it belongs to or contained within resources
 				that said library is connected to.
 
+				Any convention governing the contents of the resources folder is referred to as a
+				Kaeon library connection resource convention.
+
 				The connections folder may optionally contain an "Atlas Connections" folder, which,
 				if present, shall contain a single Kaeon document titled "Atlas Connections".
 
