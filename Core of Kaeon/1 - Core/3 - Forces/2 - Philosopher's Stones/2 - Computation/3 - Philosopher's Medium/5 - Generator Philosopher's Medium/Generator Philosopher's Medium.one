@@ -18,7 +18,7 @@
 				A module that abides by the generator Philosopher's Medium has three functions.
 				
 				The first function is the generate function. This function takes one value and a
-				number between zero and one, and returns an value that correlates to the passed in
+				number between zero and one, and returns a value that correlates to the passed in
 				value as well as specified by the passed in number.
 				
 				The second function is the degenerate function. This function takes one value and a

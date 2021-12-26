@@ -14,7 +14,7 @@
 		-
 			Realms
 		-
-			-		
+			-
 				Realm Types
 			-
 				-
@@ -66,7 +66,7 @@
 					-
 						A realm element is an attribute of a given realm or set of realms.
 					-
-				-			
+				-
 					Realm Axis
 				-
 					-
@@ -79,22 +79,22 @@
 						A realm state is a possible state that a single realm may be in depending on
 						the conditions through which it is observed.
 					-
-			-			
+			-
 				Realm Groups
 			-
-				-			
+				-
 					Realm Clusters
 				-
 					-
 						Realm clusters are groups of realms, realm axes, and realm states.
 					-
-				-			
+				-
 					Realm Superclusters
 				-
 					-
 						Realm superclusters are groups of realm clusters.
 					-
-				-			
+				-
 					The Yggdrasil Atlas
 				-
 					-

@@ -10,7 +10,7 @@
 			Stone module.
 
 			The aforementioned functions are used to restrict access to certain regions of a given
-			regulated during a traversal of a Philosopher's Atlas.
+			Philosopher's Atlas during traversals of it.
 		-
 	-
 		Principles
@@ -37,9 +37,9 @@
 				On Outgoing
 			-
 				-
-					The on outgoing function takes a list of module representing a traversal path
+					The on outgoing function takes a list of modules representing a traversal path
 					as well as a value specifying any additional information as arguments. The list
-					must contain at least two module, with the second to last module in the list
+					must contain at least two modules, with the second to last module in the list
 					being the one the function was called from, and the last module in the list
 					being the next one in the projected traversal.
 					

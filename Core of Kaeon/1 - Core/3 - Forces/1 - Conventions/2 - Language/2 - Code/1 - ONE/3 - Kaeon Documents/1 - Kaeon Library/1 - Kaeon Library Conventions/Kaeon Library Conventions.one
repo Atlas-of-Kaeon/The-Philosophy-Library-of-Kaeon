@@ -77,7 +77,7 @@
 				and the master document, no other items may be nested in the root.
 
 				If the connections folder is present, and both the resources folder and the atlas
-				connections folder are present within it, then the the resources folder shall be
+				connections folder are present within it, then the resources folder shall be
 				ordered before the atlas connections folder.
 			-
 		-

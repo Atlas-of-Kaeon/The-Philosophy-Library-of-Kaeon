@@ -31,7 +31,7 @@
 				If defined subcomponent types may have any order, then they are referred to as
 				unordered subcomponents.
 				
-				If defined subcomponent must select from a certain subset of orders, then they are
+				If defined subcomponents must select from a certain subset of orders, then they are
 				referred to as ordered subcomponents.
 
 				If ordered subcomponents have only one possible order, then they are referred to as

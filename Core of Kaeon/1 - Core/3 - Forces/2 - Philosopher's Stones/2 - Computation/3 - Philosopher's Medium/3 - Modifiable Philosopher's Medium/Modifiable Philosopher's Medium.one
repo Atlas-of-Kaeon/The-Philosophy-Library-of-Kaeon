@@ -10,7 +10,7 @@
 			either data or functionality and the second value, if present, representing the desired
 			address for the specified data or functionality within the module. The first value
 			shall be inserted where possible within the module, and if the second value is present,
-			the first value shall be inserted such that it may be addressed according the second
+			the first value shall be inserted such that it may be addressed according to the second
 			value. Any existing values within the module that conflict with the new value shall be
 			deleted.
 			
