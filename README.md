@@ -248,3 +248,11 @@ facilitate the intellectual aims of Ace Angaianism.
 
 Any Kaeon library connected either directly or indirectly to the Core of Kaeon can be considered
 part of what is called the Atlas of Kaeon.
+
+<h3 align="center">Disclaimer</h3>
+
+The authors of the Core of Kaeon are software engineers by trade.
+				
+While they strive to keep their commentary within the reasonable bounds of valid professional
+consensus in all areas, their commentary on technical subjects outside the domain of digital
+technology is drawn only from a layman's understanding of said subjects.
