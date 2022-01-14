@@ -1,11 +1,11 @@
 -
-	Philosopher's Interface
+	Philosopher's Bootstrap
 -
 	-
 		Philosophy
 	-
 		-
-			The Philosopher's Interface is an interface for dynamically invoking any operation such
+			The Philosopher's Bootstrap is an interface for dynamically invoking any operation such
 			that if said operation causes an error, then said operation shall terminate, said error
 			shall be caught, and a null value shall be returned, and if said operation finishes
 			successfully, then if said operation returns a value, said value shall be returned, and
