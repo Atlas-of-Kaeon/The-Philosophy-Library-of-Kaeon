@@ -105,22 +105,14 @@ Under the definition of good and bad as defined by the Angaian Creed, this means
 the complete elimination of all death, suffering, and manipulation for all sentient entities in the
 universe.
 
-For all intents and purposes, a sentient entity is any viable human or any animal with a
-functioning central nervous system.
+For all intents and purposes, a sentient entity is any animal with an active and functioning
+central nervous system capable of producing subjective experience.
 
 Angaianism holds the aforementioned claims to be the logical conclusions of truths which are
 self-evident by virtue of common intuition and historical validation.
 
-Furthermore, as all morality derives from sentience, the creation of a new sentient entity, be it
-human, animal, or non-organic, and whether through natural birth or by some artificial or
-semi-artificial method, is, in a vacuum, a good thing. However, to forsake an opportunity to create
-a sentient entity is morally neutral, as it does nothing to diminish the existing moral state of
-the universe.
-
-So, while there is no imperative to constantly increase the number of sentient entities in
-existence, there is an incentive, though there is an imperative to prevent the ones that do exist
-from dying, and there is also an imperative to prevent anyone from being forced to do anything
-against their will in the process of creating a sentient entity.
+Furthermore, as all morality derives from sentience, the creation of a new sentient entity, is, in
+and of itself, a good thing.
 
 This is not to say that the death of one sentient entity can be compensated for by the creation of
 another, as each individual sentient entity is uniquely precious by virtue of existence alone.
@@ -145,8 +137,9 @@ That a bad thing becomes worse the longer it lasts.
 
 And that a bad thing becomes worse the more severe the pain or coercion it results in is.
 
-However, in day to day terms, the general principle in Angaianism regarding all sentient entities
-is to minimize death and coercion and to maximize well-being wherever reasonably possible.
+In terms of applying these abstract principles to day-to-day reality, the general rule of thumb in
+Angaianism is to minimize death and coercion and to maximize well-being wherever reasonably
+possible, for all humans and animals.
 
 By extension, veganism and opposition to solely retributive forms of justice such as the death
 penalty are de-facto tenets of the philosophy, as are the staunch commitments to defending personal
@@ -157,7 +150,7 @@ utmost degree, even to the extreme of raising the dead.
 
 But it is not sufficient to merely pray for such miracles until they are fulfilled by some savior
 figure or deity, nor is it acceptable to seek refuge from their responsibility in escapist
-meditation. Rather, Angaianism implores each and every individual to work directly to bring about
+spirituality. Rather, Angaianism implores each and every individual to work directly to bring about
 utopia through the mortal endeavors of rational philosophy, empirical science, and modern
 technology.
 
@@ -171,8 +164,8 @@ However it is important to remember that Angaianism is a philosophy, not a relig
 central authority or governing institution that one must seek approval from in order call oneself
 an Angaianist, nor is there such a body or person who can define how one must interpret, expand
 upon, or critique the ideas of Angaianism, and Angaianism does not require anyone to hold or reject
-any particular spiritual or cosmological view. In fact, one may, and many do, embody the philosophy
-of Angaianism without even knowing it by said name.
+any particular spiritual or cosmological view. In fact, one could say that many already embody the
+philosophy of Angaianism to varying degrees, even if they do not know it by that name.
 
 #### Angaian Terms
 
@@ -252,7 +245,7 @@ part of what is called the Atlas of Kaeon.
 <h3 align="center">Disclaimer</h3>
 
 The authors of the Core of Kaeon are software engineers by trade.
-				
+
 While they strive to keep their commentary within the reasonable bounds of valid professional
 consensus in all areas, their commentary on technical subjects outside the domain of digital
 technology is drawn only from a layman's understanding of said subjects.
