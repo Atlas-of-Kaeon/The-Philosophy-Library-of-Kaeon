@@ -114,10 +114,6 @@ self-evident by virtue of common intuition and historical validation.
 Furthermore, as all morality derives from sentience, the creation of a new sentient entity, is, in
 and of itself, a good thing.
 
-This is not to say that the death of one sentient entity can be compensated for by the creation of
-another, as each individual sentient entity is uniquely precious by virtue of existence alone.
-Thus, the only way to compensate for the death of a sentient entity is to revive said entity.
-
 Of course, given the astronomically lofty ideal of making all that ought to be into reality, one
 must decide for themselves, according to their own common sense and subjective judgement, exactly
 how to best approach said imperative given reality's constraints.
@@ -146,7 +142,7 @@ penalty are de-facto tenets of the philosophy, as are the staunch commitments to
 freedoms and to establishing equality and prosperity among all people.
 
 However, in the grand scheme of things, one should always strive for the ideal of Kaeon to the
-utmost degree, even to the extreme of raising the dead.
+utmost degree, no matter how impossible it might seem.
 
 But it is not sufficient to merely pray for such miracles until they are fulfilled by some savior
 figure or deity, nor is it acceptable to seek refuge from their responsibility in escapist
@@ -155,8 +151,8 @@ utopia through the mortal endeavors of rational philosophy, empirical science, a
 technology.
 
 It is for this reason that the Core of Kaeon dedicates itself in part to discourse on engineering,
-so as to provide the necessary assistance to anyone seriously seeking to embark on the long and
-arduous mission to bring about heaven on Earth.
+so as to itself act as an asset to anyone seriously seeking to embark on the long and arduous
+mission to bring about heaven on Earth.
 
 One who embraces the philosophy of Angaianism can be called an Angaianist.
 
