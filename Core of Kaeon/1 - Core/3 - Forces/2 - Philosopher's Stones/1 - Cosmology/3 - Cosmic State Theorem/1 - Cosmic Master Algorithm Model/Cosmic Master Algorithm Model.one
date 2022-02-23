@@ -12,20 +12,35 @@
 		Principles
 	-
 		-
-			Parameters
+			Algorithm
 		-
 			-
-				The algorithm shall take the state of the universe in the form of a cosmic state
-				number, along with a measurement of time on an absolute scale to which all relative
-				time can be scaled, where said time value corresponds to time elapsed since the
-				time to which said cosmic state number corresponds.
+				Parameters
 			-
+				-
+					The algorithm shall take the state of the universe in the form of a cosmic
+					state number, along with a measurement of time on an absolute scale to which
+					all relative time can be scaled, where said time value corresponds to the
+					amount of time elapsed since the time to which said cosmic state number
+					corresponds.
+				-
+			-
+				Result
+			-
+				-
+					The algorithm shall return a list of cosmic state numbers, defined according to
+					a given cosmic state scheme, corresponding to all possible states of the
+					universe after said time has elapsed, along with the probability of each one
+					being the actual result.
+				-
 		-
-			Result
+			Variant
 		-
 			-
-				The algorithm shall return a list of cosmic state numbers, defined according to a
-				given cosmic state scheme, corresponding to all possible states of the universe
-				after said time has elapsed, along with the probability of each one being the
-				actual result.
+				In a secondary variant, the algorithm may assume a discrete model of time, and may
+				not require a time parameter, as the values returned shall correspond to the time
+				that immediately follows the time to which the input value corresponds.
+				
+				Thus, the primary variant may be referred to as the continuous variant, and the
+				secondary variant may be referred to as the discrete variant.
 			-
