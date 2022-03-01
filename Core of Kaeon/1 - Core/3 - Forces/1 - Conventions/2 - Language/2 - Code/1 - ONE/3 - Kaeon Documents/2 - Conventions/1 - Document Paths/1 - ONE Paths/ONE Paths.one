@@ -9,5 +9,5 @@
 			of a given element, where the first number in said sequence, zero, corresponds to said
 			given element, and each subsequent number represents a child of the element represented
 			by the number it follows, with said number specifying the index of the element it
-			represents relative to its siblings, where indices start at one.
+			represents.
 		-

@@ -12,18 +12,29 @@
 		Principles
 	-
 		-
-			Content
+			Element Data
 		-
 			-
-				The string contained by an element is referred to as its content.
+				Content
 			-
-		-
-			Scope
-		-
+				-
+					The string contained by an element is referred to as its content.
+				-
 			-
-				Any element that may be accessed by trickling down through the child connections of
-				another element are said to be in the latter element's scope.
+				Scope
 			-
+				-
+					Any element that may be accessed by trickling down through the child
+					connections of another element are said to be in the latter element's scope.
+				-
+			-
+				Index
+			-
+				-
+					The position of an element relative to its siblings within the scope of its
+					parent is referred to as its index, and is specified as an integer number,
+					where said numbers start at one.
+				-
 		-
 			Default Element
 		-

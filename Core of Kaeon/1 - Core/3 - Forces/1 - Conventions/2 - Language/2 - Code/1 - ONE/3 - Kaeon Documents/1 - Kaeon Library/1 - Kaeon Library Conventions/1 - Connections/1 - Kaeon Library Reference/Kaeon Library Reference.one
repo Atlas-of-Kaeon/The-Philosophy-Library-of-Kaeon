@@ -74,10 +74,29 @@
 					-
 						The categories that item documents in the derivative and external folders
 						may belong to include, but are not limited to, "Applications", specifying
-						computer software, "Atlases", specifying Kaeon library atlases, "Books",
-						specifying Kaeon library books, "Documents", specifying Kaeon documents,
-						"Entities", specifying miscellaneous resources, "Libraries", specifying
-						Kaeon libraries, and "Orders", specifying Orders of Kaeon.
+						computer software, "Atlases", specifying Kaeon library atlases,
+						"Documents", specifying Kaeon documents, "Entities", specifying
+						miscellaneous resources, "Libraries", specifying Kaeon libraries, and
+						"Orders", specifying Orders of Kaeon.
+					-
+				-
+					Item Document Content
+				-
+					-
+						In addition to the UIID and details elements, the principles elements of
+						item documents which specify applications or atlases may have an additional
+						child with the content "Content".
+
+						For an item document specifying an application, the content element, if
+						present, may have an indefinite number of children, each of which may
+						either have a location at which to find the application to which said
+						document pertains, or a command through which said application may be
+						initiated. If more than one such child is present, the locations and
+						commands specified by elements with lower indices shall take priority.
+
+						For an item document specifying an atlas, the content element, if present,
+						may have an indefinite number of children, each of which shall contain
+						content specifying the name of a resource in said atlas.
 					-
 			-
 				Directory

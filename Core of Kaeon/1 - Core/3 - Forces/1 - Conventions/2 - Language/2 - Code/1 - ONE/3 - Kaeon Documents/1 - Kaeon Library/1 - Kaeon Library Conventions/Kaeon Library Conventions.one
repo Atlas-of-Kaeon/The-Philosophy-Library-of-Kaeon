@@ -99,13 +99,13 @@
 					alphabetical order of their names.
 				-
 			-
-				Meta-Order
+				Kaeon Library Atlas
 			-
 				-
-					A group of multiple Kaeon libraries may be arranged in a specific order
-					relative to one another.
+					A named group of Kaeon libraries is called a Kaeon library atlas.
 					
-					Such an order may be referred to as their meta-order.
+					The Kaeon libraries in a given Kaeon library atlas may be arranged in a
+					specific order relative to one another, referred to as their meta-order.
 				-
 		-
 			Content
@@ -134,8 +134,13 @@
 					the Kaeon documents that compose its book nested as children in order into the
 					root of an otherwise empty Kaeon document.
 
-					A composite Kaeon library book consists of the contents of the books of
-					multiple Kaeon libraries concatenated together in a specific meta-order, from
-					which a book document may be derived by treating the composite Kaeon library
-					book as a single book.
+					A composite Kaeon library book consists of the contents of the books of every
+					Kaeon library in a given Kaeon library atlas concatenated together, in their
+					meta-order if said order is defined, or in no particular order if it is not,
+					from which a book document may be derived by treating the composite Kaeon
+					library book as a single book.
+
+					The name of a Kaeon library book for a single Kaeon library or a Kaeon library
+					atlas shall consist of the string "The Book of ", followed by the name of said
+					library or atlas.
 				-
