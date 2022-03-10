@@ -1,12 +1,12 @@
 -
-	Cosmic Master Algorithm Model
+	General Master Algorithm Model
 -
 	-
 		Philosophy
 	-
 		-
-			The cosmic master algorithm model specifies a model for an algorithm that would
-			constitute a theory of everything.
+			The general master algorithm model specifies a model for an algorithm that can simulate
+			any system using the General State Theorem.
 		-
 	-
 		Principles
@@ -18,20 +18,20 @@
 				Parameters
 			-
 				-
-					The algorithm shall take the state of the universe in the form of a cosmic
+					The algorithm shall take the state of a given system in the form of a general
 					state number, along with a measurement of time on an absolute scale to which
 					all relative time can be scaled, where said time value corresponds to the
-					amount of time elapsed since the time to which said cosmic state number
+					amount of time elapsed since the time to which said general state number
 					corresponds.
 				-
 			-
 				Result
 			-
 				-
-					The algorithm shall return a list of cosmic state numbers, defined according to
-					a given cosmic state scheme, corresponding to all possible states of the
-					universe after said time has elapsed, along with the probability of each one
-					being the actual result.
+					The algorithm shall return a list of general state numbers, defined according
+					to a given general state scheme, corresponding to all possible states of a
+					given system after said time has elapsed, along with the probability of each
+					one being the actual result.
 				-
 		-
 			Variant
