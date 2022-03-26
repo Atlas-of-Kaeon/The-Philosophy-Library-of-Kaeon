@@ -6,7 +6,8 @@
 	-
 		-
 			Kaeon United is an online API that provides a unified interface to Kaeon FUSION and to
-			various other tools relevant to it, and shall also serve as a shadow host.
+			various other tools relevant to it, and shall also serve as both a shadow host and as a
+			modular service.
 
 			Kaeon United may be used as a Kaeon FUSION interface, which shall cause the Kaeon
 			FUSION interpreter to use all of the most generally relevant Kaeon FUSION interfaces.
