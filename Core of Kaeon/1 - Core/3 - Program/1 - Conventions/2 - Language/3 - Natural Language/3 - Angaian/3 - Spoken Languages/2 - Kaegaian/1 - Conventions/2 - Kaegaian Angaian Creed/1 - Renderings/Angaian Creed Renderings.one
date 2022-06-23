@@ -1,0 +1,92 @@
+-
+	Angaian Creed Renderings
+-
+	-
+		Philosophy
+	-
+		-
+			This document lists methods with which to render the Angaian Creed as a single Kaeon
+			document.
+		-
+	-
+		Principles
+	-
+		-
+			Renderings
+		-
+			-
+				Default Rendering
+			-
+				-
+					When rendering the Angaian Creed as a single Kaeon document in its default
+					rendering, a principles section is added to the document containing Kaeon, and
+					added as children to said principles section, in the following order, are the
+					title elements, together with their respective descendant elements, of the
+					documents containing the Principles of Kaeon, the Priorities of Kaeon, and the
+					Question of Kaeon.
+				-
+			-
+				Alternate Renderings
+			-
+				-
+					First Alternate Rendering
+				-
+					-
+						The first alternate rendering of the Angaian Creed is a modification to its
+						default rendering.
+
+						In the first alternate rendering, for each document added to said
+						principles section, the sole children of the philosophy elements of said
+						documents are added in place of their respective title elements, and the
+						children, if any, of the principles sections of said documents are added as
+						children to the sole children of their respective philosophy elements.
+					-
+				-
+					Second Alternate Rendering
+				-
+					-
+						The second alternate rendering of the Angaian Creed is a modification to
+						its first alternate rendering.
+
+						In the second alternate rendering, for each child of the principles section
+						of the document containing the Priorities of Kaeon, said element is
+						replaced with its sole child.
+					-
+				-
+					Third Alternate Rendering
+				-
+					-
+						In the third alternate rendering of the Angaian Creed, the title elements
+						of the following documents are added in order as children to the root
+						element of an otherwise empty poly Kaeon document: the document containing
+						Kaeon, the document containing the Principles of Kaeon, the document
+						containing the Priorities of Kaeon, and the document containing the
+						Question of Kaeon.
+					-
+				-
+					Fourth, Fifth, and Sixth Alternate Renderings
+				-
+					-
+						The program modification consists of moving the contents of the document
+						containing the Question of Kaeon from the principles section of the Angaian
+						Creed to the Program section.
+
+						Applying this modification to the default rendering of the Angaian Creed
+						results in the fourth alternate rendering.
+
+						Applying this modification to the first alternate rendering of the Angaian
+						Creed results in the fifth alternate rendering.
+
+						Applying this modification to the second alternate rendering of the Angaian
+						Creed results in the sixth alternate rendering.
+					-
+		-
+			Personal Extension
+		-
+			-
+				Personal extension of the Angaian Creed consists of writing answers to the Question
+				of Kaeon in the form of an ordered series of ONE elements, and adding said elements
+				in order as children to either the principles section of the document containing
+				the Question of Kaeon in the cases the the default, third, and fourth forms, or the
+				element containing the Question of Kaeon for any other form.
+			-
