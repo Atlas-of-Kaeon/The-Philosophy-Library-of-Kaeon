@@ -77,10 +77,10 @@ Angaian Creed, which reads as follows:
     						destruction of sentient entities correlates negatively with the age of the
     						affected sentient entities at the time of their destruction.
     					-
-	    			-
-	    				The Duration Principle of Kaeon
-	    			-
-	    				-
+    				-
+    					The Duration Principle of Kaeon
+    				-
+    					-
     						All other factors held equal, the severity of any given instance of the
     						suffering or manipulation of sentient entities correlates positively with
     						its duration.
