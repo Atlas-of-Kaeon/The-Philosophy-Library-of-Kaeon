@@ -22,8 +22,8 @@
 					rendering, a principles section is added to the document containing Kaeon, and
 					added as children to said principles section, in the following order, are the
 					title elements, together with their respective descendant elements, of the
-					documents containing the Principles of Kaeon, the Priorities of Kaeon, and the
-					Question of Kaeon.
+					documents containing the Philosophy of Kaeon, the Principles of Kaeon, and the
+					Query of Kaeon.
 				-
 			-
 				Alternate Renderings
@@ -49,7 +49,7 @@
 						its first alternate rendering.
 
 						In the second alternate rendering, for each child of the principles section
-						of the document containing the Priorities of Kaeon, said element is
+						of the document containing the Principles of Kaeon, said element is
 						replaced with its sole child.
 					-
 				-
@@ -59,16 +59,16 @@
 						In the third alternate rendering of the Angaian Creed, the title elements
 						of the following documents are added in order as children to the root
 						element of an otherwise empty poly Kaeon document: the document containing
-						Kaeon, the document containing the Principles of Kaeon, the document
-						containing the Priorities of Kaeon, and the document containing the
-						Question of Kaeon.
+						Kaeon, the document containing the Philosophy of Kaeon, the document
+						containing the Principles of Kaeon, and the document containing the Query
+						of Kaeon.
 					-
 				-
 					Fourth, Fifth, and Sixth Alternate Renderings
 				-
 					-
 						The program modification consists of moving the contents of the document
-						containing the Question of Kaeon from the principles section of the Angaian
+						containing the Query of Kaeon from the principles section of the Angaian
 						Creed to the Program section.
 
 						Applying this modification to the default rendering of the Angaian Creed
@@ -84,9 +84,9 @@
 			Personal Extension
 		-
 			-
-				Personal extension of the Angaian Creed consists of writing answers to the Question
-				of Kaeon in the form of an ordered series of ONE elements, and adding said elements
-				in order as children to either the principles section of the document containing
-				the Question of Kaeon in the cases the the default, third, and fourth forms, or the
-				element containing the Question of Kaeon for any other form.
+				Personal extension of the Angaian Creed consists of writing answers to the Query of
+				Kaeon in the form of an ordered series of ONE elements, and adding said elements in
+				order as children to either the principles section of the document containing the
+				Query of Kaeon in the cases the the default, third, and fourth forms, or the
+				element containing the Query of Kaeon for any other form.
 			-

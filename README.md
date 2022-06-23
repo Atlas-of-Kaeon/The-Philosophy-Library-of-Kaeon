@@ -25,7 +25,7 @@ Angaian Creed, which reads as follows:
     		Principles
     	-
     		-
-    			The Principles of Kaeon
+    			The Philosophy of Kaeon
     		-
     			-
     				Philosophy
@@ -42,7 +42,7 @@ Angaian Creed, which reads as follows:
     					entities to be created.
     				-
     		-
-    			The Priorities of Kaeon
+    			The Principles of Kaeon
     		-
     			-
     				Philosophy
@@ -54,7 +54,7 @@ Angaian Creed, which reads as follows:
     				Principles
     			-
     				-
-    					The Hierarchy Priority of Kaeon
+    					The Hierarchy Principle of Kaeon
     				-
     					-
     						All other factors held equal, it is worse for sentient entities to be
@@ -62,7 +62,7 @@ Angaian Creed, which reads as follows:
     						than to be manipulated.
     					-
     				-
-    					The Numerical Priority of Kaeon
+    					The Numerical Principle of Kaeon
     				-
     					-
     						All other factors held equal, the severity of any given instance of the
@@ -70,7 +70,7 @@ Angaian Creed, which reads as follows:
     						positively with the number of sentient entities it affects.
     					-
     				-
-    					The Longevity Priority of Kaeon
+    					The Longevity Principle of Kaeon
     				-
     					-
     						All other factors held equal, the severity of any given instance of the
@@ -78,7 +78,7 @@ Angaian Creed, which reads as follows:
     						affected sentient entities at the time of their destruction.
     					-
 	    			-
-	    				The Duration Priority of Kaeon
+	    				The Duration Principle of Kaeon
 	    			-
 	    				-
     						All other factors held equal, the severity of any given instance of the
@@ -86,7 +86,7 @@ Angaian Creed, which reads as follows:
     						its duration.
     					-
     				-
-    					The Intensity Priority of Kaeon
+    					The Intensity Principle of Kaeon
     				-
     					-
     						All other factors held equal, the severity of any given instance of the
@@ -94,7 +94,7 @@ Angaian Creed, which reads as follows:
     						its intensity.
     					-
     		-
-    			The Question of Kaeon
+    			The Query of Kaeon
     		-
     			-
     				Philosophy
