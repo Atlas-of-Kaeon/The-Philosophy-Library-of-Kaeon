@@ -222,8 +222,9 @@ The reason that the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.githu
 format is used, in addition to the practical benefits that it shares in common with all structured
 plain text formats, is because, despite being a plain text format, it functions well as a basis for
 human-readable documents, and because, by virtue of being a plain text format, it works well as a
-computer programming tool, thus documents written in ONE have the unique attribute of being able to
-simultaneously express both soft and hard power with little compromise.
+computer programming tool, thus documents written in [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Collection/1%20-%20General/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
+have the unique attribute of being able to simultaneously express both soft and hard power with
+little compromise.
 
 In doing so, it can be said to demonstrate the oft-cited idea that science is just sufficiently
 understood magic, and thus said magic becomes a powerful tool in the arsenal of anyone truly
