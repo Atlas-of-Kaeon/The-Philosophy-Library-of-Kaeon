@@ -209,8 +209,8 @@ All of the documents within the Core of Kaeon are stored in a system of folders.
 each folder are numbered.
 
 Each folder in the Core of Kaeon contains, in addition to an indefinite amount of other folders, a
-single text document, which is written in the ONE data interchange format and which adheres to the
-Kaeon document format.
+single text document, which is written in the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Collection/1%20-%20General/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
+data interchange format and which adheres to the Kaeon document format.
 
 If reading through the Core of Kaeon in order, one should begin at the root folder, read the sole
 document within whichever folder they're currently in, and then read the contents of each sub
@@ -218,12 +218,12 @@ folder in numerical order, repeating this process recursively with each of said 
 
 #### ONE
 
-The reason that the ONE format is used, in addition to the practical benefits that it shares in
-common with all structured plain text formats, is because, despite being a plain text format, it
-functions well as a basis for human-readable documents, and because, by virtue of being a plain
-text format, it works well as a computer programming tool, thus documents written in ONE have the
-unique attribute of being able to simultaneously express both soft and hard power with little
-compromise.
+The reason that the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Collection/1%20-%20General/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
+format is used, in addition to the practical benefits that it shares in common with all structured
+plain text formats, is because, despite being a plain text format, it functions well as a basis for
+human-readable documents, and because, by virtue of being a plain text format, it works well as a
+computer programming tool, thus documents written in ONE have the unique attribute of being able to
+simultaneously express both soft and hard power with little compromise.
 
 In doing so, it can be said to demonstrate the oft-cited idea that science is just sufficiently
 understood magic, and thus said magic becomes a powerful tool in the arsenal of anyone truly
@@ -241,11 +241,11 @@ While the Core of Kaeon itself only references A-O as a symbolic statement, its 
 indefinitely expanded upon and critiqued through other Kaeon libraries which connect to it, either
 directly or indirectly.
 
-Furthermore, the application of ONE, Kaeon libraries, and Kaeon library atlases to topics beyond
-Angaianism could serve as the basis for new forms of literature, and by contributing to Kaeon
-library atlases, people could contribute their knowledge to an ever growing, open, and
-decentralized discourse on all manner of subjects, thereby fostering a platform through which to
-facilitate the intellectual aims of Ace Angaianism.
+Furthermore, the application of [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Collection/1%20-%20General/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md),
+Kaeon libraries, and Kaeon library atlases to topics beyond Angaianism could serve as the basis for
+new forms of literature, and by contributing to Kaeon library atlases, people could contribute
+their knowledge to an ever growing, open, and decentralized discourse on all manner of subjects,
+thereby fostering a platform through which to facilitate the intellectual aims of Ace Angaianism.
 
 Any Kaeon library connected either directly or indirectly to the Core of Kaeon can be considered
 part of what is called the Atlas of Kaeon.
