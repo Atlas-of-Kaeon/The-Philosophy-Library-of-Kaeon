@@ -66,8 +66,9 @@ Angaian Creed, which reads as follows:
     				-
     					-
     						All other factors held equal, the severity of any given instance of the
-    						destruction, suffering, or manipulation of sentient entities correlates
-    						positively with the number of sentient entities it affects.
+    						destruction, suffering, or manipulation of sentient entities, and the
+    						goodness of any given instance of the creation of sentient entities,
+    						correlates positively with the number of sentient entities it affects.
     					-
     				-
     					The Longevity Principle of Kaeon
