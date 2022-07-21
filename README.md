@@ -5,7 +5,7 @@
 Make all that ought to be into reality.
 
 The aforementioned command is referred to as Kaeon (pronounced "KAI-on"). It is the central tenet
-of the philosophy of Angaianism.
+of Angaianism.
 
 The Core of Kaeon is a composite treatise written to codify and elaborate upon Angaianism, which
 itself is officially codified in the first portion of the Core of Kaeon, called the Angaian Creed.
