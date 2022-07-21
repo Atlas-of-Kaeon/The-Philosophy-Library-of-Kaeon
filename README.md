@@ -7,10 +7,8 @@ Make all that ought to be into reality.
 The aforementioned command is referred to as Kaeon (pronounced "KAI-on"). It is the central tenet
 of the philosophy of Angaianism.
 
-The Core of Kaeon is a composite treatise written to codify and elaborate upon said philosophy.
-
-Angaianism itself is officially codified in the first portion of the Core of Kaeon, called the
-Angaian Creed, which reads as follows:
+The Core of Kaeon is a composite treatise written to codify and elaborate upon Angaianism, which
+itself is officially codified in the first portion of the Core of Kaeon, called the Angaian Creed.
 
     -
     	Kaeon
@@ -151,7 +149,7 @@ Angaianism is to minimize death and coercion and to maximize well-being wherever
 possible, for all humans and animals.
 
 By extension, veganism and opposition to solely retributive forms of justice such as the death
-penalty are de-facto tenets of the philosophy, as are the staunch commitments to defending personal
+penalty are de-facto tenets of Angaianism, as are the staunch commitments to defending personal
 freedoms and to establishing equality and prosperity among all people.
 
 However, in the grand scheme of things, one should always strive for the ideal of Kaeon to the
@@ -167,14 +165,13 @@ It is for this reason that the Core of Kaeon dedicates itself in part to discour
 so as to itself act as an asset to anyone seriously seeking to embark on the long and arduous
 mission to bring about heaven on Earth.
 
-One who embraces the philosophy of Angaianism can be called an Angaianist.
+One who embraces Angaianism can be called an Angaianist.
 
-However it is important to remember that Angaianism is a philosophy, not a religion. There is no
-central authority or governing institution that one must seek approval from in order call oneself
-an Angaianist, nor is there such a body or person who can define how one must interpret, expand
-upon, or critique the ideas of Angaianism, and Angaianism does not require anyone to hold or reject
-any particular spiritual or cosmological view. In fact, one could say that many already embody the
-philosophy of Angaianism to varying degrees, even if they do not know it by that name.
+There is no central authority or governing institution that one must seek approval from in order
+call oneself an Angaianist, nor is there such a body or person who can define how one must
+interpret, expand upon, or critique the ideas of Angaianism, and Angaianism does not require anyone
+to hold or reject any particular cosmological view. In fact, one could say that many already embody
+the Angaianism to varying degrees, even if they do not know it by that name.
 
 #### Angaian Terms
 
@@ -188,11 +185,11 @@ as an Angaian.
 #### Ace Angaianism
 
 While Angaianism, in and of itself, pertains only to the moral terms of the Angaian Creed, one may
-incorporate Angaianism into larger, more elaborate philosophical systems, which can serve not only
-as a framework for morality, but for many other aspects of life as well.
+incorporate Angaianism into larger, more elaborate systems, which can serve not only as a framework
+for morality, but for many other aspects of life as well.
 
-Among such systems is Ace Angaianism, a set of philosophical assertions and perspectives meant to
-complement Angaianism which, among other things, makes the following primary claims:
+Among such systems is Ace Angaianism, a set of assertions and perspectives meant to complement
+Angaianism which, among other things, makes the following primary claims:
 
 That one ought to seek wisdom and might in all their forms for the sake of being better equipped to
 work towards a better world, and should additionally encourage and assist others in doing the same,
