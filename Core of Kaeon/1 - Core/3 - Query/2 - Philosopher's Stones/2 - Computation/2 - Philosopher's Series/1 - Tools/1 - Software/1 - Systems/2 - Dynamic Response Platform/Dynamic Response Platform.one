@@ -1,0 +1,35 @@
+-
+	Dynamic Response Platform
+-
+	-
+		Philosophy
+	-
+		-
+			A dynamic response platform, or DRP, is a collection of applications which work
+			together to interpret external prompts, whether structured or unstructured, in various
+			forms and in real time, and to execute said prompts according to the intentions with
+			which they were given.
+		-
+	-
+		Principles
+	-
+		-
+			Dynamic Response Dispatchers
+		-
+			-
+				A dynamic response dispatcher is an application which takes an indefinite number of
+				unstructured text arguments representing external prompts, and relays said prompts
+				to a given set of other applications, called dynamic response interpreters, which
+				interpret and execute said prompts.
+
+				A dynamic response dispatcher may either be implemented as a command line
+				application or as a server.
+			-
+		-
+			Dynamic Response Observers
+		-
+			-
+				A dynamic response observer is an application which receives external prompts,
+				renders said prompts as text, and relays said renderings to a given set of dynamic
+				response dispatchers.
+			-
