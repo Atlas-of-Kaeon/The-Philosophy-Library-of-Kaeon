@@ -6,30 +6,51 @@
 	-
 		-
 			A dynamic response platform, or DRP, is a collection of applications which work
-			together to interpret external prompts, whether structured or unstructured, in various
-			forms and in real time, and to execute said prompts according to the intentions with
-			which they were given.
+			together to interpret external prompts, called dynamic response prompts, whether
+			structured or unstructured, in various forms and in real time, and to execute said
+			prompts according to the intentions with which they were given, the results of said
+			execution being called dynamic response actions.
 		-
 	-
 		Principles
 	-
 		-
-			Dynamic Response Dispatchers
+			Components
 		-
 			-
-				A dynamic response dispatcher is an application which takes an indefinite number of
-				unstructured text arguments representing external prompts, and relays said prompts
-				to a given set of other applications, called dynamic response interpreters, which
-				interpret and execute said prompts.
+				Dynamic Response Dispatchers
+			-
+				-
+					A dynamic response dispatcher is an application which takes an indefinite
+					number of unstructured text arguments, called dynamic response commands,
+					representing dynamic response prompts, and relays said commands to a given set
+					of other applications, called dynamic response interpreters, which interpret
+					and execute said prompts as dynamic response actions.
 
-				A dynamic response dispatcher may either be implemented as a command line
-				application or as a server.
+					A dynamic response dispatcher may either be implemented as a command line
+					application, called a dynamic response module, or as a server, called a dynamic
+					response server.
+
+					A dynamic response server, upon intercepting a request, shall respond with a
+					list of dynamic response commands to be relayed to a given set of dynamic
+					response dispatchers.
+				-
 			-
+				Dynamic Response Observers
+			-
+				-
+					A dynamic response observer is an application which receives dynamic response
+					prompts, renders said prompts as dynamic response commands, and relays said
+					commands to a given set of dynamic response dispatchers.
+				-
 		-
-			Dynamic Response Observers
+			Dynamic Response Standards
 		-
 			-
-				A dynamic response observer is an application which receives external prompts,
-				renders said prompts as text, and relays said renderings to a given set of dynamic
-				response dispatchers.
+				A dynamic response standard is a codified set of defined dynamic response prompts,
+				dynamic response commands, dynamic response actions, conversion protocols between
+				dynamic response prompts and dynamic response commands, called dynamic response
+				prompt to command protocols, and conversion protocols between dynamic response
+				commands and dynamic response actions, called dynamic response command to action
+				protocols.
 			-
