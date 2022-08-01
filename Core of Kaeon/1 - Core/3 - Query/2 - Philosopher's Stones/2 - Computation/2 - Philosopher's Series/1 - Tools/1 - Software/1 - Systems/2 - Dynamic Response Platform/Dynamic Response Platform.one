@@ -34,6 +34,11 @@
 					A dynamic response server, upon intercepting a request, shall respond with a
 					list of dynamic response commands to be relayed to a given set of dynamic
 					response dispatchers.
+
+					A dynamic response dispatcher that uses machine learning to convert dynamic
+					response commands into dynamic response actions, and which takes previously
+					received dynamic response commands into account in doing so, is called a
+					general dynamic response dispatcher.
 				-
 			-
 				Dynamic Response Observers
