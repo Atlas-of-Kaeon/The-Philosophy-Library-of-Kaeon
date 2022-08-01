@@ -128,11 +128,12 @@
 				-
 					The book of a conventional Kaeon library consists of the contents of the master
 					document, if present, the core folder, if present, and the connections folder,
-					if present, arranged in order.
+					if present, said sections and contents being arranged in order.
 
 					An extended book of a conventional Kaeon library follows the aforementioned
 					contents with some, in the case of a partial extended book, or all, in the case
-					of a complete extended book, of contents of the collection folder, if present.
+					of a complete extended book, of contents of the collection folder, if present,
+					said contents being arranged in order.
 
 					The book document of a conventional Kaeon library consists of the contents of
 					the Kaeon documents that compose its book nested as children in order into the
