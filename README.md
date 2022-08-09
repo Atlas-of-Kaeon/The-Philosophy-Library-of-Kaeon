@@ -93,7 +93,7 @@ itself is officially codified in the first portion of the Core of Kaeon, called 
     						its intensity.
     					-
     		-
-    			The Query of Kaeon
+    			The Wonders of Kaeon
     		-
     			-
     				Philosophy
