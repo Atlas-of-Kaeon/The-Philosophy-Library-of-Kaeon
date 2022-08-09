@@ -8,9 +8,6 @@
 			A virtual system is a virtual interface to a system that contains a modular list of
 			commands, each of which have an alias and may take an indefinite number of string
 			arguments.
-
-			A virtual system may use various different UI shells as interfaces to it, and may
-			execute commands autonomously upon startup.
 		-
 	-
 		Principles
@@ -20,9 +17,9 @@
 		-
 			-
 				A standard virtual system provides an interface to a virtual file system through
-				its commands, and provides commands for file system navigation and management, for
-				dynamically changing the available commands, and for dynamically changing the shell
-				in use.
+				its commands, provides commands for file system navigation, for file system
+				management, and for dynamically changing the available commands, and may execute
+				commands autonomously upon startup.
 
 				In a standard virtual system, if the name of a file is used as a command, it shall
 				run as an executable if said file is an executable file.
