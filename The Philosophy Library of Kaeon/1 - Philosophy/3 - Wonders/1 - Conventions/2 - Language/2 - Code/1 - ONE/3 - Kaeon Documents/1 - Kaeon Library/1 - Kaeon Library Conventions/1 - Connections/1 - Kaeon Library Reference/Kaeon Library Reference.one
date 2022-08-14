@@ -1,0 +1,117 @@
+-
+	Kaeon Library Reference
+-
+	-
+		Philosophy
+	-
+		-
+			Kaeon library reference is a Kaeon library connection resource convention for
+			specifying general information about the Kaeon library to which it is applied and about
+			the external resources to which said library is connected.
+		-
+	-
+		Principles
+	-
+		-
+			Name
+		-
+			-
+				The name of the folder which hosts the files pertaining to Kaeon library reference
+				shall have the name "Reference".
+			-
+		-
+			Contents
+		-
+			-
+				Items
+			-
+				-
+					Items Documents
+				-
+					-
+						An item document is a Kaeon document specifying a resource pertaining to a
+						given Kaeon library.
+
+						An item document's name and title shall match the name of the resource that
+						it pertains to.
+						
+						A standard item document shall describe the resource that it pertains to in
+						its philosophy section, and may optionally have the principles section
+						present, which may contain an element with the content "UIID", which, if
+						present, shall have a child with content specifying the UIID of the
+						resource to which its document pertains, and may also contain an element
+						with the content "Details", under which any other element specifying
+						miscellaneous about the resource to which its document pertains may be
+						nested.
+					-
+				-
+					Item Document Arrangement
+				-
+					-
+						All item documents shall be nested within a subfolder of the reference
+						folder with the title "Items".
+
+						An item document specifying the Kaeon library to which it belongs shall be
+						nested in a subfolder of the items folder with the title "Source".
+
+						Item documents specifying resources that may be derived from the content of
+						the Kaeon library to which it belongs and the resources that said library
+						is connected to shall be nested in a subfolder of the items folder with the
+						title "Derivative".
+
+						Item documents specifying external resources relative to the Kaeon library
+						to which it belongs shall be nested in a subfolder of the items folder with
+						the title "External".
+
+						A folder containing an item document nested within the derivative or
+						external folders shall be nested within a subfolder of said folder, the
+						title of which shall specify the category to which the resource that said
+						item document pertains to belongs.
+					-
+				-
+					Item Document Categories
+				-
+					-
+						The categories that item documents in the derivative and external folders
+						may belong to include, but are not limited to, "Applications", specifying
+						computer software, "Atlases", specifying Kaeon library atlases,
+						"Documents", specifying Kaeon documents, "Entities", specifying
+						miscellaneous resources, "Libraries", specifying Kaeon libraries, and
+						"Orders", specifying Orders of Kaeon.
+					-
+				-
+					Item Document Content
+				-
+					-
+						In addition to the UIID and details elements, the principles elements of
+						item documents which specify applications or atlases may have an additional
+						child with the content "Content".
+
+						For an item document specifying an application, the content element, if
+						present, may have an indefinite number of children, each of which may
+						either have a location at which to find the application to which said
+						document pertains, or a command through which said application may be
+						initiated. If more than one such child is present, the locations and
+						commands specified by elements with lower indices shall take priority.
+
+						For an item document specifying an atlas, the content element, if present,
+						may have an indefinite number of children, each of which shall contain
+						content specifying the name of a resource in said atlas.
+					-
+			-
+				Directory
+			-
+				-
+					The reference folder may have a subfolder with the name "Directory". The
+					directory folder shall contain a single Kaeon document with the name and title
+					"Directory".
+
+					The principles section of the directory file may have an indefinite number of
+					children, each of which may contain the name of a resource pertaining to the
+					library to which the convention is applied. Said children shall be arranged in
+					alphabetical order.
+
+					Each of said children may itself optionally have an indefinite number of
+					children, each of which contains content specifying a location at which the
+					resource referenced by its parent is located.
+				-

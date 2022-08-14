@@ -1,0 +1,17 @@
+-
+	SOUL Entity
+-
+	-
+		Philosophy
+	-
+		-
+			A SOUL entity is a module with input channels that can receive strings from other
+			modules, output channels that can export strings to other modules, and input channels
+			that can receive feedback from other modules in the form of numbers from zero to one,
+			with higher numbers indicating positive feedback, and lower numbers indicating negative
+			feedback.
+
+			A SOUL entity ought to behave such that it attempts to maximize the positive feedback
+			received through its numerical input channels by adjusting what it exports through its
+			string output channels according to what it receives through its string input channels.
+		-

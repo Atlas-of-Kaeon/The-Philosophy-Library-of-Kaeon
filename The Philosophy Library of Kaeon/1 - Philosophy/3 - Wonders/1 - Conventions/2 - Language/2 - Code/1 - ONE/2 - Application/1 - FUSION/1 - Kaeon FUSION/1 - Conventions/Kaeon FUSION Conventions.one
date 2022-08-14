@@ -1,0 +1,20 @@
+-
+	Kaeon FUSION Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			Kaeon FUSION establishes certain conventions in addition to those established by
+			FUSION.
+		-
+	-
+		Principles
+	-
+		-
+			Host Environment
+		-
+			-
+				The host environment may read from and alter the state of Kaeon FUSION as Kaeon
+				FUSION runs.
+			-

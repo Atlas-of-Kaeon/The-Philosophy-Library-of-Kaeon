@@ -1,0 +1,47 @@
+-
+	Kaeon United
+-
+	-
+		Philosophy
+	-
+		-
+			Kaeon United is an online API that provides a unified interface to Kaeon FUSION and to
+			various other tools relevant to it, and shall also serve as both a modular shadow host
+			and as a modular service.
+
+			Kaeon United may expand its functionality through the use of interface modules.
+		-
+	-
+		Principles
+	-
+		-
+			The Kaeon United Atlas
+		-
+			-
+				The applications that utilize Kaeon United, as well as any data processed by said
+				applications, may be collectively referred to as the Kaeon United atlas.
+			-
+		-
+			The Kaeon United Interface
+		-
+			-
+				Kaeon United may be used as a Kaeon FUSION interface, called the Kaeon United
+				interface, which may be referenced by the alias "Kaeon United", and which shall
+				cause the Kaeon FUSION interpreter to use all of the most generally relevant Kaeon
+				FUSION interfaces.
+
+				The Kaeon United interface shall cause any command that would otherwise not return
+				a value to return its content as a string at step three of the FUSION process.
+			-
+		-
+			Kaeon Origin
+		-
+			-
+				Kaeon United may itself be executed as an application, which shall serve as an
+				interface to a standard virtual system.
+				
+				This application shall be called Kaeon Origin.
+
+				The data that a given user stores within Kaeon Origin's virtual system may be
+				collectively referred to as said user's Kaeon Origin profile.
+			-

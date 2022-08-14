@@ -1,0 +1,75 @@
+-
+	Angaian Language
+-
+	-
+		Philosophy
+	-
+		-
+			An Angaian written language is a character set designed according to the Angaian
+			written language conventions, and an Angaian spoken language is a spoken language
+			designed according to the Angaian spoken language conventions.
+		-
+	-
+		Principles
+	-
+		-
+			Angaian Written Language Conventions
+		-
+			-
+				Marks
+			-
+				-
+					A given character in an Angaian written language shall be composed of a
+					combination of distinct markings, called marks, arranged according to an
+					ordered list. A mark's index within said list is referred to as its mark index,
+					where said indices start at zero.
+					
+					An Angaian written language must have at least one mark, and an Angaian
+					character must use at least one mark.
+					
+					It must not be possible to confuse one combination of marks for another.
+				-
+			-
+				Character Values
+			-
+				-
+					Angaian Characters may be assigned numerical values based on the marks they are
+					composed of, where each mark corresponds to a binary digit, where the value of
+					said digit is equal to two to the power of said mark's mark index.
+				-
+			-
+				Full Character
+			-
+				-
+					The full character in an Angaian written language uses all available marks
+					within said language.
+				-
+		-
+			Angaian Spoken Language Conventions
+		-
+			-
+				Structure
+			-
+				-
+					An Angaian spoken language consists of a set of defined words which may be used
+					alongside undefined words in any order to form sentences without regard for
+					grammatical rules. Said set of words is referred to as a spoken Angaian
+					dictionary.
+					
+					Any set of words in an Angaian spoken language may be combined together in a
+					certain order using hyphenation or an equivalent to form compound words.
+				-
+			-
+				Spoken Angaian Grammar
+			-
+				-
+					A spoken Angaian grammar is a type of convention for Angaian spoken languages
+					that may optionally be used, either strictly or in a modified form, to enforce
+					structure.
+					
+					Multiple spoken Angaian grammars may be used simultaneously, and these may be
+					changed at any point during a given conversation.
+
+					An Angaian spoken language taken together with a set of spoken Angaian grammars
+					is called a spoken Angaian dialect.
+				-

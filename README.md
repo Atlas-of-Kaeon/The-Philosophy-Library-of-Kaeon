@@ -1,4 +1,4 @@
-<h1 align="center">The Core of Kaeon</h1>
+<h1 align="center">The Philosophy Library of Kaeon</h1>
 
 <h2 align="center">Philosophy</h2>
 
@@ -7,8 +7,9 @@ Make all that ought to be into reality.
 The aforementioned command is referred to as Kaeon (pronounced "KAI-on"). It is the central tenet
 of Angaianism.
 
-The Core of Kaeon is a composite treatise written to codify and elaborate upon Angaianism, which
-itself is officially codified in the first portion of the Core of Kaeon, called the Angaian Creed.
+The Philosophy Library of Kaeon is a composite treatise written to codify and elaborate upon
+Angaianism, which itself is officially codified in the first portion of the Philosophy Library of
+Kaeon, called the Angaian Creed:
 
     -
     	Kaeon
@@ -161,9 +162,9 @@ spirituality. Rather, Angaianism implores each and every individual to work dire
 utopia through the mortal endeavors of rational philosophy, empirical science, and modern
 technology.
 
-It is for this reason that the Core of Kaeon dedicates itself in part to discourse on engineering,
-so as to itself act as an asset to anyone seriously seeking to embark on the long and arduous
-mission to bring about heaven on Earth.
+It is for this reason that the Philosophy Library of Kaeon dedicates itself in part to discourse on
+engineering, so as to itself act as an asset to anyone seriously seeking to embark on the long and
+arduous mission to bring about heaven on Earth.
 
 One who embraces Angaianism can be called an Angaianist.
 
@@ -171,7 +172,7 @@ There is no central authority or governing institution that one must seek approv
 call oneself an Angaianist, nor is there such a body or person who can define how one must
 interpret, expand upon, or critique the ideas of Angaianism, and Angaianism does not require anyone
 to hold or reject any particular cosmological view. In fact, one could say that many already embody
-the Angaianism to varying degrees, even if they do not know it by that name.
+Angaianism to varying degrees, even if they do not know it by that name.
 
 #### Angaian Terms
 
@@ -201,26 +202,26 @@ A-O ("AH-oh").
 
 <h3 align="center">Contents</h3>
 
-The Core of Kaeon is organized in a format known as the Kaeon library format.
+The Philosophy Library of Kaeon is organized in a format known as the Kaeon library format.
 
-All of the documents within the Core of Kaeon are stored in a system of folders. The subfolders of
-each folder are numbered.
+All of the documents within the Philosophy Library of Kaeon are stored in a system of folders. The
+subfolders of each folder are numbered.
 
-Each folder in the Core of Kaeon contains, in addition to an indefinite amount of other folders, a
-single text document, which is written in the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Wonders/1%20-%20United/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
+Each folder in the Philosophy Library of Kaeon contains, in addition to an indefinite amount of
+other folders, a single text document, which is written in the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Kaeon%20United/2%20-%20Wonders/1%20-%20United/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
 data interchange format and which adheres to the Kaeon document format.
 
-If reading through the Core of Kaeon in order, one should begin at the root folder, read the sole
-document within whichever folder they're currently in, and then read the contents of each sub
-folder in numerical order, repeating this process recursively with each of said sub folders.
+If reading through the Philosophy Library of Kaeon in order, one should begin at the root folder,
+read the sole document within whichever folder they're currently in, and then read the contents of
+each sub folder in numerical order, repeating this process recursively with each of said sub folders.
 
 #### ONE
 
-The reason that the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Wonders/1%20-%20United/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
+The reason that the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Kaeon%20United/2%20-%20Wonders/1%20-%20United/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
 format is used, in addition to the practical benefits that it shares in common with all structured
 plain text formats, is because, despite being a plain text format, it functions well as a basis for
 human-readable documents, and because, by virtue of being a plain text format, it works well as a
-computer programming tool, thus documents written in [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Wonders/1%20-%20United/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
+computer programming tool, thus documents written in [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Kaeon%20United/2%20-%20Wonders/1%20-%20United/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
 have the unique attribute of being able to simultaneously express both soft and hard power with
 little compromise.
 
@@ -230,28 +231,28 @@ seeking to make all that ought to be into reality.
 
 #### The Atlas of Kaeon
 
-The Core of Kaeon concludes by establishing a connections section which serves as a template for
-other Kaeon libraries to follow when referencing external resources.
+The Philosophy Library of Kaeon concludes by establishing a connections section which serves as a
+template for other Kaeon libraries to follow when referencing external resources.
 
 By referencing one another, Kaeon libraries can form what is called a Kaeon library atlas, a
 network of Kaeon libraries.
 
-While the Core of Kaeon itself only references A-O as a symbolic statement, its ideas may be
-indefinitely expanded upon and critiqued through other Kaeon libraries which connect to it, either
-directly or indirectly.
+While the Philosophy Library of Kaeon itself only references A-O as a symbolic statement, its ideas
+may be indefinitely expanded upon and critiqued through other Kaeon libraries which connect to it,
+either directly or indirectly.
 
-Furthermore, the application of [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Wonders/1%20-%20United/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md),
+Furthermore, the application of [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Kaeon%20United/2%20-%20Wonders/1%20-%20United/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md),
 Kaeon libraries, and Kaeon library atlases to topics beyond Angaianism could serve as the basis for
 new forms of literature, and by contributing to Kaeon library atlases, people could contribute
 their knowledge to an ever growing, open, and decentralized discourse on all manner of subjects,
 thereby fostering a platform through which to facilitate the intellectual aims of Ace Angaianism.
 
-Any Kaeon library connected either directly or indirectly to the Core of Kaeon can be considered
-part of what is called the Atlas of Kaeon.
+Any Kaeon library connected either directly or indirectly to the Philosophy Library of Kaeon can be
+considered part of what is called the Atlas of Kaeon.
 
 <h3 align="center">Disclaimer</h3>
 
-The authors of the Core of Kaeon are software engineers by trade.
+The authors of the Philosophy Library of Kaeon are software engineers by trade.
 
 While they strive to keep their commentary within the reasonable bounds of valid professional
 consensus in all areas, their commentary on technical subjects outside the domain of digital

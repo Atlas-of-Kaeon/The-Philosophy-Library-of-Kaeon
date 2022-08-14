@@ -1,0 +1,22 @@
+-
+	Philosopher's Crystal
+-
+	-
+		Philosophy
+	-
+		-
+			A philosopher's crystal is a single module created to take the place of multiple
+			modules. The process of converting multiple modules into a single module is referred to
+			as crystallization.
+		-
+	-
+		Principles
+	-
+		-
+			Philosopher's Shards
+		-
+			-
+				Philosopher's shards are modules created to take the place of a subset of tasks
+				which were once handled by a single module. The process of converting a single
+				module into multiple modules is referred to as fragmentation.
+			-

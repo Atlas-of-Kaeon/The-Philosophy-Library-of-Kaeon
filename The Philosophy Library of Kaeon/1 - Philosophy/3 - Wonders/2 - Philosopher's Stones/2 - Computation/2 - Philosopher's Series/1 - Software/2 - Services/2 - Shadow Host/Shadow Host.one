@@ -1,0 +1,26 @@
+-
+	Shadow Host
+-
+	-
+		Philosophy
+	-
+		-
+			A shadow host is an application that takes the locations of existing resources or the
+			literal content of said resources as arguments and renders said resources as a new
+			application.
+
+			A shadow host is, by default, implemented as an online application.
+		-
+	-
+		Shadow Host
+	-
+		-
+			Shadow Host Interfaces
+		-
+			-
+				Along with the locations and content of external resources to render, a shadow host
+				may also take the locations and content of external resources which augment its own
+				functionality, called shadow host interfaces.
+
+				A shadow host that uses shadow host interfaces is called a modular shadow host.
+			-

@@ -1,0 +1,25 @@
+-
+	Supervalid ONE
+-
+	-
+		Philosophy
+	-
+		-
+			Supervalid ONE is an extravalid ruleset for the ONE language.
+		-
+	-
+		Principles
+	-
+		-
+			Whitespace
+		-
+			-
+				Improperly placed whitespace shall be ignored by supervalid ONE.
+			-
+		-
+			Dysfunctional Lines
+		-
+			-
+				Any lines with improperly placed non-whitespace characters shall be ignored
+				entirely, as shall any element definition containing said lines.
+			-
