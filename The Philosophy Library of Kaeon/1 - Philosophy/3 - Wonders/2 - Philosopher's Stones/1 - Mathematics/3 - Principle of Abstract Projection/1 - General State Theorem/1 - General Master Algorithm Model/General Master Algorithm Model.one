@@ -44,3 +44,14 @@
 				Thus, the primary variant may be referred to as the continuous variant, and the
 				secondary variant may be referred to as the discrete variant.
 			-
+		-
+			Context
+		-
+			-
+				Under the general master algorithm model taken together with the principle of
+				abstract unity, any system can be reduced to one algorithm, one number, and one
+				choice made at random following the execution of each iteration of the simulation,
+				said iterations being referred to as "resolutions", thus any system is defined
+				entirely by the formulation of its algorithm under the general master algorithm
+				model.
+			-
