@@ -54,4 +54,8 @@
 				said iterations being referred to as "resolutions", thus any system is defined
 				entirely by the formulation of its algorithm under the general master algorithm
 				model.
+
+				A quantity produced by concatenating a quantity derived from the serialization of a
+				system's general master algorithm together with said system's current general state
+				number is called a general state rendering of said system.
 			-
