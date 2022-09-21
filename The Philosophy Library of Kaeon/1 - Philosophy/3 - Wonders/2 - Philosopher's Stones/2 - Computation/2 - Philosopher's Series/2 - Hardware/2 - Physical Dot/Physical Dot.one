@@ -6,7 +6,7 @@
 	-
 		-
 			A physical dot is a machine which external devices and applications may use to store
-			and transfer data, which is free and open for anonymous use.
+			and transfer data, and which is free and open for anonymous use.
 		-
 	-
 		Principles
@@ -15,8 +15,15 @@
 			Standards
 		-
 			-
-				A standard physical dot shall have wireless communication functionality, and
-				generate its own power in a renewable manner.
+				A standard physical dot shall have wireless communication functionality.
+			-
+		-
+			Adapter
+		-
+			-
+				A physical dot net adapter is any combination of hardware and software that can
+				enable a device which does not operate by default as a physical dot to operate as a
+				physical dot.
 			-
 		-
 			Networks
@@ -31,6 +38,6 @@
 				Dual Dot Net
 			-
 				-
-					A dual dot net is a physical dot net with a virtual dot net running at least
-					partially within it.
+					A dual dot net is a physical dot net with at least one virtual dot net running
+					at least partially within it.
 				-
