@@ -1,0 +1,14 @@
+-
+	Philosopher's Singularity
+-
+	-
+		Philosophy
+	-
+		-
+			A philosopher's singularity, also known as a union API, is an API that provides access
+			to the contents of a philosopher's suite, which may be called either locally or from a
+			static endpoint such that it will provide different elements of said philosopher's
+			suite depending on the environment it is called from, and which may also be executed as
+			a standalone application, thus serving as a platform through which to provide a vast
+			array of functionality via a single module.
+		-
