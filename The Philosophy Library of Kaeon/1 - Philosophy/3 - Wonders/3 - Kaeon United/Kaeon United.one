@@ -35,7 +35,8 @@
 		-
 			-
 				Kaeon United may itself be executed as an application, which shall serve as an
-				interface to a standard virtual system.
+				interface to a standard virtual system, with a manually configurable embedded
+				virtual dot.
 				
 				This application shall be called Kaeon Origin.
 

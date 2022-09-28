@@ -27,3 +27,10 @@
 			-
 				Any file hosted on a virtual dot net shall be assigned a unique identifying token.
 			-
+		-
+			Embedded Virtual Dot
+		-
+			-
+				An embedded virtual dot is a virtual dot embedded as a subprocess of another
+				application.
+			-
