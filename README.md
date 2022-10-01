@@ -176,7 +176,8 @@ Angaianism to varying degrees, even if they do not know it by that name.
 
 #### Angaian Terms
 
-The word Kaeon means "the way up".
+The word Kaeon means "perfect resolve" ("kae" meaning resolve, as in willpower, or resolution, and
+"on" meaning perfect).
 
 The word "Angaia" (pronounced "An-GUY-uh") means "the whole world", and can be said to represent
 the idea of all sentient entities in the universe as one people and one nation which transcends any
