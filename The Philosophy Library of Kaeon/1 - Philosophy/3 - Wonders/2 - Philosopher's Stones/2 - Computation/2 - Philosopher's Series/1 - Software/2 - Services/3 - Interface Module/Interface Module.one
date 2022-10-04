@@ -6,5 +6,6 @@
 	-
 		-
 			An interface module is a package which may contain modular service plugins, shadow host
-			interfaces, and other miscellaneous dependency packages.
+			interfaces, other miscellaneous dependency packages, and references to other interface
+			modules.
 		-

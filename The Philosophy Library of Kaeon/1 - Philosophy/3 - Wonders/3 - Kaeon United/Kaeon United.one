@@ -5,12 +5,18 @@
 		Philosophy
 	-
 		-
-			Kaeon United is a general philosopher's singularity, the philosopher's suite of which
-			is referred to as the United Suite.
+			Kaeon United is a philosopher's suite.
 		-
 	-
 		Principles
 	-
+		-
+			The Kaeon United Singularity
+		-
+			-
+				The Kaeon United singularity is a general philosopher's singularity, and the
+				primary philosopher's singularity with which to access Kaeon United.
+			-
 		-
 			The Kaeon United Atlas
 		-
@@ -22,10 +28,10 @@
 			The Kaeon United Interface
 		-
 			-
-				Kaeon United may be used as a Kaeon FUSION interface, called the Kaeon United
-				interface, which may be referenced by the alias "Kaeon United", and which shall
-				cause the Kaeon FUSION interpreter to use all of the most generally relevant Kaeon
-				FUSION interfaces.
+				Kaeon United, via the Kaeon United singularity, may be used as a Kaeon FUSION
+				interface, called the Kaeon United interface, which may be referenced by the alias
+				"Kaeon United", and which shall cause the Kaeon FUSION interpreter to use all of
+				the most generally relevant Kaeon FUSION interfaces.
 
 				The Kaeon United interface shall cause any command that would otherwise not return
 				a value to return its content as a string at step three of the FUSION process.
@@ -34,9 +40,9 @@
 			Kaeon Origin
 		-
 			-
-				Kaeon United may itself be executed as an application, which shall serve as an
-				interface to a standard virtual system, with a manually configurable embedded
-				virtual dot.
+				Kaeon United, via the Kaeon United singularity, may itself be executed as an
+				application, which shall serve as an interface to a standard virtual system, with a
+				manually configurable embedded virtual dot.
 				
 				This application shall be called Kaeon Origin.
 

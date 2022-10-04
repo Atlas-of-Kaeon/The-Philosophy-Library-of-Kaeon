@@ -10,6 +10,6 @@
 			or executed as an application with arguments, and which may be called either locally or
 			from a static endpoint, such that it will provide different elements of said
 			philosopher's suite depending on the environment it is called from, the environment it
-			is executed within, and,if applicable, the arguments passed to it, thus serving as a
+			is executed within, and, if applicable, the arguments passed to it, thus serving as a
 			platform through which to provide a vast array of functionality via a single module.
 		-
