@@ -54,11 +54,11 @@
 				Digits are named using the sound made by the consonant having the character value
 				matching the numerical value of said digit followed by the vowel "ai".
 
-				Figures of multiples ten are named according to the number of zeros that follow it,
-				plus one, converted to base twenty six. For every figure in the resulting number,
-				a syllable consisting of the consonant having the character value of the number of
-				said figure plus one shall be appended to the name of the figure of the multiple of
-				ten, followed by the syllable "ahl".
+				Figures of multiples of ten are named according to the number of zeros that follow
+				it, plus one, converted to base twenty six. For every figure in the resulting
+				number, a syllable consisting of the consonant having the character value of the
+				number of said figure plus one shall be appended to the name of the figure of the
+				multiple of ten, followed by the syllable "ahl".
 
 				Figures of divisors of ten are named according to the number of zeros that precede
 				it, plus one, converted to base twenty six. For every figure in the resulting
@@ -73,5 +73,6 @@
 				figures in all cases except for the ones figure, from greatest to least, and
 				pronouncing the decimal point as one would character sixty seven between the ones
 				place and the tens place. The recitation and the writing of the number shall begin
-				with the decimal point if it is less than one.
+				with the decimal point if its absolute value is less than one and greater than
+				zero.
 			-
