@@ -34,9 +34,10 @@
 		-
 			-
 				In addition to the functions specified by the generator Philosopher's Medium, a
-				SOUL also has the train function. This function takes a SOUL corpus, and trains its
-				generate function to match output values to arguments passed to it according to
-				said corpus and any corpuses previously passed to it.
+				SOUL also has the train function, which takes a SOUL corpus, and trains the
+				functions that said SOUL inherits from the generator Philosopher's Medium to match
+				input and output values passed to them according to the content of said corpus, and
+				according to the content of any corpuses previously passed to said function.
 
 				A SOUL may also have the reset function, which undoes any training performed by the
 				train function.
