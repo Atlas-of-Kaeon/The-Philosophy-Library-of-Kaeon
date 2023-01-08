@@ -15,18 +15,29 @@
 		Principles
 	-
 		-
+			SOUL Corpus
+		-
+			-
+				A SOUL corpus is a set of correlations between input and output values.
+
+				The standard form of a SOUL corpus is a list of objects, where each of said objects
+				has an input value, an output value, and a correlation value in the form of a
+				number between zero and one, inclusive, which represents the correlation between
+				the aforementioned input and output values.
+
+				The standard form for both input and output values is a string, and each object may
+				be represented as a list where the input value is the first element, the output
+				value is the second element, and the correlation value is the third element.
+			-
+		-
 			Functionality
 		-
 			-
-				A module that abides by the SOUL Philosopher's Medium contains a corpus of
-				correlations between input and output values.
-				
 				In addition to the functions specified by the generator Philosopher's Medium, a
-				SOUL also has the train function. This function takes two values and a number
-				between zero and one. The first value is the input, the second value is the output,
-				and the number represents how well the input and the output match up. Based on this
-				correlation, the function updates the corpus.
+				SOUL also has the train function. This function takes a SOUL corpus, and trains its
+				generate function to match output values to arguments passed to it according to
+				said corpus and any corpuses previously passed to it.
 
-				The functions of a SOUL specified by the generator Philosopher's Medium must take
-				said SOUL's corpus into account.
+				A SOUL may also have the reset function, which undoes any training performed by the
+				train function.
 			-
