@@ -6,8 +6,8 @@
 	-
 		-
 			A virtual system is a virtual interface to a system that contains a modular list of
-			commands, each of which have an alias and may take an indefinite number of string
-			arguments.
+			commands, which shall each have an alias, which may each take an indefinite number of
+			arguments, and which each may return a value.
 		-
 	-
 		Principles
