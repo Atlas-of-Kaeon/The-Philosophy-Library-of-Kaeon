@@ -23,13 +23,13 @@
 			Kaeon FUSION
 		-
 			-
-				Included in the Kaeon United interface for Kaeon FUSION shall be the Kaeon META
-				command, which shall work as follows:
+				Included in the Kaeon United FUSION interface shall be the Kaeon META command,
+				which shall work as follows:
 
 				At step three of the FUSION process, an element with the content "Kaeon META", when
 				processed as a command, shall send each value returned to it to Kaeon META, and may
 				return any value should Kaeon META send a value back in response.
 
-				Furthermore, once the Kaeon United interface for Kaeon FUSION has been integrated,
-				Kaeon META shall be able to modify the state of the Kaeon FUSION script.
+				Furthermore, once the Kaeon United FUSION interface has been integrated, Kaeon META
+				shall be able to modify the state of the Kaeon FUSION script.
 			-
