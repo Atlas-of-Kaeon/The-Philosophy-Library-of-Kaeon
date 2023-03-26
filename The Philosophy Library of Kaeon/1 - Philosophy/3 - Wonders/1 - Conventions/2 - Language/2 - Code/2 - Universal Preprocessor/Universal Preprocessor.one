@@ -42,6 +42,8 @@
 				content, and end with a close directive sequence. A directive following this format
 				is called an implicit directive.
 
+				Whichever sequence a directive begins with is referred to as its starting sequence.
+
 				Token sequences used for Universal Preprocessor directives can be nullified in any
 				manner otherwise used to nullify or escape characters by the host language if
 				outside a directive, or by the directive language if inside a directive.
@@ -63,9 +65,12 @@
 				language to set as the host language, which is followed by a close protocol
 				sequence.
 
-				If the host language is not declared, or is declared as using a null sequence, then
+				If the host language is not declared, or is declared using a null sequence, then
 				the host language shall be plain text, and there shall be no protocol for escaping
 				tokens.
+
+				The text of a document with its unescaped directives removed is referred to as its
+				base content.
 			-
 		-
 			Execution
@@ -77,14 +82,16 @@
 				The state of the preprocessor shall carry over from directive to directive to
 				whatever extent possible.
 
-				Each directive shall take three arguments, the first being the source code without
-				the unescaped directives as a string, the second being the index of its respective
-				starting open paren as an integer number, and the third being a list of
-				miscellaneous values passed to the Universal Preprocessor as arguments.
+				Each directive shall take three arguments, the first being the base content as a
+				string, the second being the index of its respective starting sequence as an
+				integer number within the base content, and the third being a list which contains
+				miscellaneous values passed to the Universal Preprocessor as arguments, and which
+				shall retain any changes made to it between directives.
 
-				Any text logged to standard out by the code will be injected into the source text
-				at the index of the starting tag, but if the code returns a non-null value, the
-				string form of said value shall replace the source text altogether.
+				Any text logged to standard out by the directive content of a directive will be
+				injected into the base content at the index of its starting sequence, but if its
+				directive content returns a non-null value, the string form of said value shall
+				replace the base content altogether.
 			-
 		-
 			Auto Detection
