@@ -1,11 +1,11 @@
 -
-	Interface ONE
+	Interface ACE
 -
 	-
 		Philosophy
 	-
 		-
-			Interface ONE is a ONE format for encoding the content of interface modules.
+			Interface ACE is a ACE format for encoding the content of interface modules.
 		-
 	-
 		Principles
@@ -17,10 +17,10 @@
 				Interface Element
 			-
 				-
-					An interface element is a ONE element for which the children of it represent an
-					interface module by conforming to interface ONE.
+					An interface element is a ACE element for which the children of it represent an
+					interface module by conforming to interface ACE.
 
-					A ONE document that represents a single interface module should have one
+					A ACE document that represents a single interface module should have one
 					interface element, which should either be the root element of the document if
 					it is not a Kaeon document, or the wonders element of the document if it is a
 					Kaeon document.
@@ -83,10 +83,10 @@
 						external interface module.
 					-
 		-
-			Interface ONE Conventions
+			Interface ACE Conventions
 		-
 			-
 				A codified protocol regarding the contents of the metadata elements attached to
-				modules and module versions in interface ONE documents is referred to as an
-				interface ONE convention.
+				modules and module versions in interface ACE documents is referred to as an
+				interface ACE convention.
 			-
