@@ -5,7 +5,6 @@
 		Philosophy
 	-
 		-
-			An interface module is a package which may contain modular service plugins, shadow host
-			interfaces, other miscellaneous dependency packages, and references to other interface
-			modules.
+			An interface module is a package which may contain dependencies for various
+			applications, as well as references to other interface modules.
 		-

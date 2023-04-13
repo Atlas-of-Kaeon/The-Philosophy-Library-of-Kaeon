@@ -5,7 +5,7 @@
 		Philosophy
 	-
 		-
-			This document lists conventions regarding Kaeon United.
+			Kaeon United is a philosopher's suite implemented via interface modules.
 		-
 	-
 		Principles
@@ -21,7 +21,8 @@
 				-
 					-
 						The Kaeon United interface is an interface module which serves as the
-						central module of Kaeon United's implementation.
+						reference which the central module shall use to redirect requests from
+						external agents to the utilities within Kaeon United.
 					-
 				-
 					The Kaeon United Singularities

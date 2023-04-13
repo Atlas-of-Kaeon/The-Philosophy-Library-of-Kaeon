@@ -1,0 +1,92 @@
+-
+	Interface ONE
+-
+	-
+		Philosophy
+	-
+		-
+			Interface ONE is a ONE format for encoding the content of interface modules.
+		-
+	-
+		Principles
+	-
+		-
+			Format
+		-
+			-
+				Interface Element
+			-
+				-
+					An interface element is a ONE element for which the children of it represent an
+					interface module by conforming to interface ONE.
+
+					A ONE document that represents a single interface module should have one
+					interface element, which should either be the root element of the document if
+					it is not a Kaeon document, or the wonders element of the document if it is a
+					Kaeon document.
+				-
+			-
+				Structure
+			-
+				-
+					Modules
+				-
+					-
+						An interface element may have a child with the content "Modules", said
+						child being a package element.
+
+						A package element may have a child with the content "Packages", which may
+						have an indefinite number of package elements as children, the content of
+						said children being the names of the packages they represent.
+
+						A package element may have a child with the content "Modules", which may
+						have an indefinite number of module elements as children, the content of
+						said children being the names of the modules they represent.
+
+						A module element may have a child with the content "Versions", which may
+						have an indefinite number of version elements as children, the content of
+						said children being the names of the versions they represent of the modules
+						to which they pertain.
+
+						Module and version elements may have a child with the content "Metadata",
+						which may have any children, which shall specify miscellaneous metadata
+						regarding the respective module or version.
+
+						A version element may have a child with the content "Locations", which may
+						have an indefinite number of children, the content of said children being
+						possible locations at which the source of the respective version may be
+						found.
+
+						A version element may have a child with the content "Source", which shall
+						have one child, the content of said child being the source of the
+						respective version.
+					-
+				-
+					Connections
+				-
+					-
+						An interface element may have a child with the content "Connections".
+
+						The connections element may have a child with the content "Extensions", and
+						may have a child with the content "References".
+
+						Both the extensions and references elements may have an indefinite number
+						of connection elements as children, each of which represent external
+						interface modules, with the children of the extensions element representing
+						interface modules for which the contents are to be taken as part of the
+						interface module to which said element belongs, and the children of the
+						references element representing interface modules which are not.
+
+						A connection element shall have the name of the external interface module
+						it references as its content, and may have an indefinite number of elements
+						as children, the content of which shall specify possible locations of said
+						external interface module.
+					-
+		-
+			Interface ONE Conventions
+		-
+			-
+				A codified protocol regarding the contents of the metadata elements attached to
+				modules and module versions in interface ONE documents is referred to as an
+				interface ONE convention.
+			-
