@@ -5,5 +5,28 @@
 		Philosophy
 	-
 		-
-			Interfaces are modules that can alter the Kaeon FUSION interpreter at runtime.
+			Interfaces are modules that may be integrated into the Kaeon FUSION interpreter at
+			runtime, where they may alter the interpreter's properties in any way.
 		-
+	-
+		Principles
+	-
+		-
+			Implementation
+		-
+			-
+				Interfaces are, by default, implemented as interface modules.
+				
+				Interfaces not implemented as interface modules may be converted to interface
+				modules.
+			-
+		-
+			Union Interface
+		-
+			-
+				The union interface of a Kaeon FUSION program is an interface module generated from
+				all of the interfaces integrated into a Kaeon FUSION program at runtime.
+
+				The union interface is the default return value of a Kaeon FUSION program until
+				said value is reassigned to something else.
+			-

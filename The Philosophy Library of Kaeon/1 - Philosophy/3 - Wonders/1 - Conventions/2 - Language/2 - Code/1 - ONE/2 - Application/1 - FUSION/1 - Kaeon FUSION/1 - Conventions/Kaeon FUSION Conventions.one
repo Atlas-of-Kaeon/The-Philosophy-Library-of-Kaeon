@@ -15,6 +15,16 @@
 			Host Environment
 		-
 			-
-				The host environment may read from and alter the state of Kaeon FUSION as Kaeon
-				FUSION runs.
+				The host environment may read from and alter the state of Kaeon FUSION during or
+				after the execution of a Kaeon FUSION program.
+			-
+		-
+			Return Value
+		-
+			-
+				The state of a Kaeon FUSION program shall retain a value called the return value
+				which may be changed as the program runs.
+
+				It is to be taken as the default output of the program to the program's entry point
+				within its environment.
 			-

@@ -51,5 +51,5 @@
 
 				The Kaeon United FUSION interface shall cause any command that would otherwise not
 				return a value to return its content as a string at step three of the FUSION
-				process.
+				process, and shall cause the interface use protocol to go into effect.
 			-
