@@ -1,0 +1,45 @@
+-
+	Philosopher's Suite Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			This document lists conventions regarding philosopher's suites.
+		-
+	-
+		Principles
+	-
+		-
+			Constructs
+		-
+			-
+				Philosopher's Suite Atlas
+			-
+				-
+					Philosopher's suites may include references to other philosopher's suites.
+
+					A network of connected philosopher's suites is called a philosopher's suite
+					atlas, and the contents of all philosopher's suites in a given philosopher's
+					suite atlas can be rendered to a single philosopher's suite.
+				-
+			-
+				Philosopher's Singularity
+			-
+				-
+					A philosopher's singularity is an API that provides access to the contents of a
+					philosopher's suite, which may be either imported into a program or executed as
+					an application with arguments, and which may be called either locally or from a
+					static endpoint, such that it will provide different elements of said
+					philosopher's suite depending on the environment it is called from, the
+					environment it is executed within, and, if applicable, the arguments passed to
+					it, thus serving as a platform through which to provide a vast array of
+					functionality via a single module.
+				-
+		-
+			Terms
+		-
+			-
+				A philosopher's suite may also be known as a union suite, and a philosopher's
+				singularity may also be known as a union API.
+			-
