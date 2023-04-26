@@ -9,10 +9,10 @@
 			irrelevant. It may have an indefinite number of children.
 			
 			At step three of the FUSION process, for each of its children, referred to as interface
-			elements, the use command will integrate the Kaeon FUSION interface specified by the
-			content of said interface element.
+			elements, the use command will integrate the Kaeon FUSION interfaces specified by said
+			interface element.
 
-			Any method through which an interface element may specify a Kaeon FUSION interface is
+			Any method through which an interface element may specify Kaeon FUSION interfaces is
 			referred to as a use protocol.
 
 			The default use protocol is for the content of an interface element to be the path to
