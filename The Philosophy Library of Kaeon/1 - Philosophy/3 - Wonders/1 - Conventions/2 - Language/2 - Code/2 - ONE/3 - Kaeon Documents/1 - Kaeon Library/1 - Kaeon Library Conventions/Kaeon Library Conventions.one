@@ -60,8 +60,14 @@
 
 						The principles element of said document shall have a child for each
 						resource that the library it belongs to is connected to within the
-						Universal Atlas, and said element shall have the name of the resource to
-						which it corresponds as its content.
+						Universal Atlas, and said element, referred to as an atlas connection
+						element, shall have the name of the resource to which it corresponds as its
+						content.
+
+						An atlas connection element may have children which specify miscellaneous
+						details about the connection it represents, and any method through which
+						said children may specify said details is referred to as an atlas
+						connection protocol.
 
 						The principles folder may only contain library directories.
 					-
