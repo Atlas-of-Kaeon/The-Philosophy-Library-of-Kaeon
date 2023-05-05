@@ -6,8 +6,7 @@
 	-
 		-
 			An interface module is a package containing a Philosopher's suite in the form of
-			dependencies for various applications, as well as references to other interface
-			modules.
+			utilities for various applications, as well as references to other interface modules.
 		-
 	-
 		Principles
@@ -18,3 +17,43 @@
 			-
 				An interface module may have a string alias with which to identify it.
 			-
+		-
+			Structure
+		-
+			-
+				Connections
+			-
+				-
+					An interface module may contain connections to other interface modules, which
+					may each optionally extend the contents of the interface module to which they
+					belong with the contents of the interface modules they reference, those that do
+					so being called extension connections, and those that do not being called
+					reference connections.
+				-
+			-
+				Utilities
+			-
+				-
+					Each interface module acts as a utility package.
+
+					A utility package has a string alias by which it may be referenced, and may
+					contain utilities and other utility packages.
+
+					The sequence of packages leading from the interface module itself, inclusive,
+					to a given utility package or utility, inclusive, is referred to as the path of
+					said utility package or utility.
+
+					A utility has a string alias by which it may be referenced, and may have an
+					indefinite number of utility properties and utility versions.
+
+					A utility version contains or references an implementation of the utility to
+					which it belongs, called the version source, and may have an indefinite number
+					of version properties.
+
+					Interface properties, which include utility properties and version properties,
+					inform external environments regarding how to integrate and use the utilities
+					and versions to which they pertain.
+					
+					A codified protocol specifying interface properties is called an interface
+					module convention.
+				-
