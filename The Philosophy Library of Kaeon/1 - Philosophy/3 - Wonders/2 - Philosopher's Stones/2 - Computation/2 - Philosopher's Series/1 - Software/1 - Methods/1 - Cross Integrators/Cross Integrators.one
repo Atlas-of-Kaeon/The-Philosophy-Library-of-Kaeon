@@ -1,0 +1,51 @@
+-
+	Cross Integrators
+-
+	-
+		Philosophy
+	-
+		-
+			A cross integrator is a utility that dynamically loads and integrates utilities from
+			one location or environment into another, restructuring the recipient destination to
+			whatever extent necessary in the process.
+
+			The use of cross integrators is referred to as cross integration.
+		-
+	-
+		Principles
+	-
+		-
+			Conventions
+		-
+			-
+				Cross Code
+			-
+				-
+					Cross code is code written in multiple languages which are by default
+					incompatible.
+				-
+		-
+			Integrators
+		-
+			-
+				Cross Adapters
+			-
+				-
+					A cross adapter is a cross integrator that dynamically loads, and then either
+					transpiles or wraps, foreign utilities so as to make them compatible with the
+					recipient environment.
+				-
+			-
+				Cross Builders
+			-
+				-
+					A cross builder is a cross integrator that builds projects from their source
+					code without requiring any manual installations or setup beforehand.
+				-
+			-
+				Cross Evaluators
+			-
+				-
+					A cross evaluator is a cross integrator that can interpret or compile cross
+					code, and can autocorrect code as it interprets or compiles it.
+				-

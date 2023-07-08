@@ -38,10 +38,10 @@
 				Structure
 			-
 				-
-					Utilities
+					Contents
 				-
 					-
-						An interface element may have a child with the content "Utilities", said
+						An interface element may have a child with the content "Contents", said
 						child being a package element, which represents a utility package.
 
 						A package element may have a child with the content "Packages", which may
