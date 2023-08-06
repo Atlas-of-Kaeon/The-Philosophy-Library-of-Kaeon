@@ -8,12 +8,30 @@
 			A shadow host is an application that takes the locations of existing resources or the
 			literal content of said resources as arguments and renders said resources as a new
 			application.
-
-			A shadow host is, by default, implemented as an online application.
 		-
 	-
 		Shadow Host
 	-
+		-
+			Conventions
+		-
+			-
+				Content
+			-
+				-
+					An application hosted on a shadow host is called a shadow application, and
+					content utilized by shadow hosts is called shadow content.
+
+					The collective of all shadow hosts and shadow content can be referred to as the
+					shadow web, and the portions of the shadow web stored on the perma-net can be
+					referred to as the shadow stream.
+				-
+			-
+				Environment
+			-
+				-
+					A shadow host is, by default, implemented as an online application.
+				-
 		-
 			Shadow Host Interfaces
 		-

@@ -1,0 +1,20 @@
+-
+	Standard Interface ACE
+-
+	-
+		Philosophy
+	-
+		-
+			Standard interface ACE is a set of Kaeon ACE conventions consisting of the standard
+			Kaeon ACE conventions and the interface ACE conventions.
+		-
+	-
+		Principles
+	-
+		-
+			Letter Case
+		-
+			-
+				The letter case of the component aliases specified by standard interface ACE is
+				irrelevant.
+			-

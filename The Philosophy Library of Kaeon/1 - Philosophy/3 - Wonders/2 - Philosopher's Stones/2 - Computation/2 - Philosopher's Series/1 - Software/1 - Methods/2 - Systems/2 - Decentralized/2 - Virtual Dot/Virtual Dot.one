@@ -1,0 +1,40 @@
+-
+	Virtual Dot
+-
+	-
+		Philosophy
+	-
+		-
+			A virtual dot is an application which, if installed on a device connected to a network,
+			can store data and execute code within the host device on behalf of free and anonymous
+			requests received via the network, can distribute and verify said data to and among
+			other virtual dots via distributed ledgers, can route requests through the network in a
+			decentralized manner, and can self-replicate across the network in a non-malicious
+			manner.
+		-
+	-
+		Principles
+	-
+		-
+			Properties
+		-
+			-
+				Virtual Dot Net
+			-
+				-
+					A virtual dot net is a network of virtual dots.
+				-
+			-
+				Virtual Dot Tokens
+			-
+				-
+					Any file hosted on a virtual dot net shall be assigned a unique identifying
+					token.
+				-
+			-
+				Embedded Virtual Dot
+			-
+				-
+					An embedded virtual dot is a virtual dot embedded as a subprocess of another
+					application.
+				-

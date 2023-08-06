@@ -1,0 +1,11 @@
+-
+	Simplified Use Protocol
+-
+	-
+		Philosophy
+	-
+		-
+			The simplified use protocol causes the use command to interpret the content of all of
+			its children as string paths to Kaeon ACE documents to be integrated into the union
+			document of the Kaeon FUSION program.
+		-

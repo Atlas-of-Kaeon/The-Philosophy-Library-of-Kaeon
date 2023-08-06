@@ -1,0 +1,106 @@
+-
+	Trace Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			The trace conventions are a set of conventions which may be used to search for content
+			in graphs.
+		-
+	-
+		Principles
+	-
+		-
+			Conventions
+		-
+			-
+				Concepts
+			-
+				-
+					Graphs
+				-
+					-
+						Trace Origin
+					-
+						-
+							Any node within a graph from which all other nodes may be reached by
+							traversal of the connections of said graph is called a trace origin.
+						-
+					-
+						Trace Descendants
+					-
+						-
+							If one node can be reached by traversing the connections of a graph
+							from another node, the former node is referred to as a trace descendant
+							of the latter.
+							
+							The minimum number of connections that must be traversed to reach a
+							given trace descendant of a given node is referred to as the trace
+							degree between them.
+						-
+				-
+					Traversal
+				-
+					-
+						Trace Traversal
+					-
+						-
+							Trace traversal is the process of identifying a set of trace
+							descendants of a given node, called the trace set, that meet certain
+							criteria, said criteria being referred to trace classes, and that can
+							be reached from said node without going through another member of said
+							trace set, after which said descendants are sorted in order of trace
+							degree from lowest to highest, and then sorted arbitrarily, their
+							resulting placement being referred to as their trace index.
+						-
+					-
+						Trace Relative Classes
+					-
+						-
+							Certain trace classes, called trace relative classes, may assign nodes
+							within a trace set scores from zero to one, inclusive, called trace
+							scores, and trace traversals using trace relative classes shall sort
+							the nodes of the resulting trace set in order of their trace score from
+							highest to lowest, after sorting said nodes by trace degree and before
+							sorting said nodes arbitrarily.
+						-
+					-
+						Trace Path
+					-
+						-
+							A trace path is a sequence of trace classes.
+						-
+			-
+				Trace Path Traversal
+			-
+				-
+					Trace path traversal is a sequence of trace traversals defined by a given trace
+					path, which begins at a given node that matches the first trace class in the
+					given trace path, and progresses from one node to another, iterating over the
+					given trace path with each jump, such that the next node in the traversal is
+					the one within a trace set, said set being that of the current node of the
+					traversal and the next trace class of the iteration over the given trace path,
+					with the lowest trace index for a standard trace path traversal, or with any
+					other index for an atypical trace path traversal.
+
+					For a given trace path traversal, the range of the trace degrees of each
+					jump made in the course of said traversal is referred to as the trace range
+					of said traversal, the lowest number in said range being referred to as the
+					trace minimum of said traversal, and the highest number in said range being
+					referred to as the trace maximum of said traversal.
+
+					A trace path traversal with a trace maximum of one is referred to as a
+					normalized trace path traversal.
+
+					A trace path traversal where certain jumps cannot be made due to the
+					specified descendant not existing is referred to as invalid, whereas any
+					other trace path traversal is referred to as valid.
+				-
+		-
+			Trace Filtering
+		-
+				Trace filtering is a process which, using a given graph and a given trace path,
+				identifies nodes within said graph that may be reached at the end of trace path
+				traversals within said graph using said trace path.
+			-

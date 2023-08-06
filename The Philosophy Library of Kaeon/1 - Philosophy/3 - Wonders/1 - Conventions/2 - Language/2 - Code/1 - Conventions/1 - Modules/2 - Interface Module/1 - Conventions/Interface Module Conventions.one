@@ -1,0 +1,34 @@
+-
+	Interface Module Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			This document specifies conventions for interface modules.
+		-
+	-
+		Principles
+	-
+		-
+			Alias Reference
+		-
+			-
+				An alias reference is a record specifying the aliases of various interface modules,
+				as well as ways to access them.
+			
+				An interface module may be used as an alias reference via its connections.
+			-
+		-
+			Interface Suites and Singularities
+		-
+			-
+				An interface suite is a philosopher's suite implemented as an interface module, and
+				an interface singularity is a philosopher's singularity which uses interface suites
+				as its philosopher's suites.
+
+				A standard interface singularity shall reference one interface suite as its default
+				suite, from which it derives the content it delivers to its environment, and may
+				optionally reference an indefinite number of other interface suites as alias
+				references, or as extensions to its default suite.
+			-

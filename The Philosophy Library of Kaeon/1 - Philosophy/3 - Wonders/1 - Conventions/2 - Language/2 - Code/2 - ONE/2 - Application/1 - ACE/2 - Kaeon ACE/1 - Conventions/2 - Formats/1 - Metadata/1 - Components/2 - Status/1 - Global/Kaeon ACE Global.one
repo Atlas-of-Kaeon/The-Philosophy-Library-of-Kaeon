@@ -1,0 +1,17 @@
+-
+	Kaeon ACE Global
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon ACE global component convention is a Kaeon ACE convention regarding Kaeon ACE
+			global components.
+
+			A Kaeon ACE global component is a Kaeon ACE component element with the content
+			"global".
+
+			If attached to a given entity, it will cause any other entity that shares its alias to
+			share said given entity's components, unless said components are overridden by the
+			components of said other entity.
+		-

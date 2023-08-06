@@ -1,0 +1,16 @@
+-
+	Kaeon ACE META
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon ACE META component convention is a Kaeon ACE convention regarding Kaeon ACE
+			META components.
+
+			A Kaeon ACE META component is a Kaeon ACE component element with the content "META",
+			the children of which are Kaeon ACE component elements that, rather than applying
+			solely to the entity to which the Kaeon ACE META component belongs to, shall also apply
+			to said entity's descendant entities, unless overridden by the components of said
+			descendants.
+		-

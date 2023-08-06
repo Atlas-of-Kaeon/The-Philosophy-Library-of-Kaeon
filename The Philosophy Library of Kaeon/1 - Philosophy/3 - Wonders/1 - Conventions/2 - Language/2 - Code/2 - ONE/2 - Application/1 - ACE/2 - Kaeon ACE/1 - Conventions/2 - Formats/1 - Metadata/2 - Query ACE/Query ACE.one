@@ -1,0 +1,124 @@
+-
+	Query ACE
+-
+	-
+		Philosophy
+	-
+		-
+			Query ACE is a set of Kaeon ACE conventions used to specify ACE references.
+		-
+	-
+		Principles
+	-
+		-
+			Conventions
+		-
+			-
+				Format
+			-
+				-
+					Entities
+				-
+					-
+						The Kaeon ACE components of query ACE specify properties of ACE references,
+						and Kaeon ACE entities of query ACE, called query entities, represent ACE
+						references to which said properties apply, the aliases of said entities
+						specifying the aliases of the targets of said references.
+					-
+				-
+					Aliases
+				-
+					-
+						Once the target of a query entity is explicitly specified, its alias shall
+						become implicitly associated with said target until it is explicitly
+						redefined.
+					-
+			-
+				ACE Component
+			-
+				-
+					A Kaeon ACE component with the content "ACE" may have a query ACE document
+					embedded within it, which extends the contents of the Kaeon ACE entity to which
+					it applies in accordance with the other components which apply to said Kaeon
+					ACE entity.
+				-
+		-
+			Components
+		-
+			-
+				Type
+			-
+				-
+					Extend
+				-
+					-
+						The extend component is a Kaeon ACE component with the content "Extend",
+						and indicates that any ACE reference it is applied to is an extension ACE
+						reference.
+					-
+				-
+					Multiselect
+				-
+					-
+						The multiselect component is a Kaeon ACE component with the content
+						"Multiselect", and indicates that an ACE reference it is applied to has
+						multiselect status, meaning it may target multiple ACE elements.
+					-
+			-
+				Query
+			-
+				-
+					Location
+				-
+					-
+						The location component is a Kaeon ACE component with the content
+						"Location", which may have an indefinite number of children that specify
+						possible locations of documents in which to find the target of the Kaeon
+						ACE references to which it applies, with the first locations listed given
+						preference.
+
+						If multiselect status is in effect, all of the specified locations which
+						are available shall be targeted.
+
+						If this component is not present, it shall be assumed that the targets of
+						the query entities to which it would otherwise apply are located in the
+						documents that said query entities belong to, or that the targets of the
+						query entities to which it would otherwise apply are in locations specified
+						implicitly the aliases of said query entities.
+					-
+				-
+					Path
+				-
+					-
+						The path component is a Kaeon ACE component which may have an indefinite
+						number of children that specify trace classes for ONE elements or for Kaeon
+						ACE entities, specifying said classes in the order of their element
+						indices, forming a trace path to the origin element of target of the query
+						entities to which it applies from the root of the documents that said
+						targets are located in, the origin element either being the target itself
+						or the reference point relative to which the target is defined by some
+						other criteria.
+
+						The children of the path component may either specify tag trace classes or
+						model trace classes.
+
+						For children specifying tag trace classes, they shall have the content
+						"Tags", and may have an indefinite number of children, each of which
+						specifying a trace tag that a node must have.
+
+						For children specifying trace model classes, which are trace relative
+						classes, they shall have the content "Model", and its children shall
+						specify a model element relative to which each ONE element within a trace
+						set shall be assigned a trace score according to how closely they match the
+						model element, with a higher trace score meaning greater resemblance.
+
+						This component can only be used for standard ACE references, and if it is
+						not present, it shall be assumed that the origin elements of the targets of
+						the query entities to which it would otherwise apply are either the root of
+						the documents they are located in.
+
+						The path component shall have the content "ONE Path" if it is targeting a
+						generic ONE element in a generic ONE document, and shall have the content
+						"ACE Path" if it is targeting a Kaeon ACE entity in the usage document of a
+						Kaeon ACE document.
+					-

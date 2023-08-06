@@ -5,7 +5,7 @@
 		Philosophy
 	-
 		-
-			Kaeon United is a philosopher's suite implemented via interface modules.
+			Kaeon United is an interface suite.
 		-
 	-
 		Principles
@@ -14,24 +14,28 @@
 			Core
 		-
 			-
+				Alias
+			-
+				-
+					The alias of Kaeon United is "Kaeon United".
+				-
+			-
 				Implementation
 			-
 				-
 					The Kaeon United Interface
 				-
 					-
-						The Kaeon United interface is an interface module which serves as the
-						reference which the central module shall use to redirect requests from
-						external agents to the utilities within Kaeon United.
+						The Kaeon United interface is an interface module, for which the alias is
+						"Kaeon United Interface", and which extends Kaeon United, serving as the
+						reference to the utilities within the Kaeon United suite.
 					-
 				-
 					The Kaeon United Singularities
 				-
 					-
-						The Kaeon United singularities are a set of philosopher's singularities,
-						which include general philosopher's singularities, and which are the
-						primary philosopher's singularities with which to access the Kaeon United
-						interface.
+						The Kaeon United singularities are a set of interface singularities for
+						which the default suite is Kaeon United.
 					-
 			-
 				The Kaeon United Atlas

@@ -1,0 +1,42 @@
+-
+	Kaeon ACE Subcomponents
+-
+	-
+		Philosophy
+	-
+		-
+			All elements in the scope of Kaeon ACE component elements shall be called
+			subcomponents, and shall specify the properties of the component to which they belong.
+		-
+	-
+		Principles
+	-
+		-
+			Subcomponent Orders
+		-
+			-
+				The depth at which a subcomponent is nested relative to the component to which it
+				belongs is referred to as its order.
+				
+				Subcomponent orders begin at one.
+			-
+		-
+			Predefinition
+		-
+			-
+				Predefined subcomponent types are referred to as defined subcomponents.
+
+				Undefined subcomponent types are referred to as undefined subcomponents.
+
+				If defined subcomponent types may have any order, then they are referred to as
+				unordered subcomponents.
+				
+				If defined subcomponents must select from a certain subset of orders, then they are
+				referred to as ordered subcomponents.
+
+				If ordered subcomponents have only one possible order, then they are referred to as
+				single ordered subcomponents.
+
+				If ordered subcomponents have more than one possible order, then they are referred
+				to as multiple ordered subcomponents.
+			-

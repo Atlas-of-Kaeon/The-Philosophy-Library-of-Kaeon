@@ -1,0 +1,71 @@
+-
+	Kaeon ACE
+-
+	-
+		Philosophy
+	-
+		-
+			Kaeon ACE is a standard for using ACE elements to define a component-entity tree.
+		-
+	-
+		Principles
+	-
+		-
+			Elements
+		-
+			-
+				Kaeon ACE Elements
+			-
+				-
+					A Kaeon ACE element is an ACE element that represents an entity. It may, among
+					other children, have a child with the content "Entities", and may also have a
+					child with the content "Components".
+
+					The content of a Kaeon ACE element specifies its alias.
+
+					The entities element may have an indefinite number of Kaeon ACE elements as its
+					children.
+
+					The components element may have an indefinite number of elements as children,
+					all of which shall be interpreted as component elements.
+
+					A component element represents a component of the entity to which it belongs,
+					its content specifying its alias, and possibly its type, and its children
+					specifying its content.
+
+					Any child of a Kaeon ACE element other than the entities element and the
+					components element shall be interpreted as a Kaeon ACE element, and if the
+					entities element or the components element have no children, they shall be
+					interpreted as Kaeon ACE elements.
+				-
+		-
+			Conventions
+		-
+			-
+				General
+			-
+				-
+					Content
+				-
+					-
+						The default alias for an entity is "Entity", and the default alias for a
+						component is "Component".
+
+						The letter case of element content in Kaeon ACE is irrelevant.
+					-
+				-
+					Proper Form
+				-
+					-
+						Kaeon ACE formatted such that Kaeon ACE elements have no children other
+						than the entities or components elements is said to be in proper form,
+						whereas Kaeon ACE that does not abide by this convention is said to be in
+						improper form.
+					-
+			-
+				Kaeon ACE Conventions
+			-
+				-
+					A codified protocol specifying how a component element is to be interpreted
+					according to its content and children is referred to as a Kaeon ACE convention.
+				-

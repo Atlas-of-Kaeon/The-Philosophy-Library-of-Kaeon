@@ -1,0 +1,56 @@
+-
+	ACE Reference Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			This document specifies conventions for ACE references.
+		-
+	-
+		Principles
+	-
+		-
+			Conventions
+		-
+			-
+				Attributes
+			-
+				-
+					Aliases
+				-
+					-
+						ACE references shall specify aliases for their targets.
+					-
+				-
+					Targets
+				-
+					-
+						ACE references may each have multiple targets.
+					-
+			-
+				Types
+			-
+				-
+					Connection
+				-
+					-
+						ACE references may optionally extend the document to which they belong,
+						those that do being referred to as extension ACE references, and those that
+						do not being referred to as non-extension ACE references.
+
+						The default interpretation of extension ACE references has them swapped out
+						for their targets, but this may be altered by the properties of the
+						document to which they belong.
+
+						A codified protocol for an alternate means of interpreting extension ACE
+						references is referred to as an ACE extension convention.
+					-
+				-
+					Content
+				-
+					-
+						An ACE reference that targets ONE elements is referred to as a standard ACE
+						reference, and an ACE reference that targets anything else is referred to
+						as a general ACE reference.
+					-

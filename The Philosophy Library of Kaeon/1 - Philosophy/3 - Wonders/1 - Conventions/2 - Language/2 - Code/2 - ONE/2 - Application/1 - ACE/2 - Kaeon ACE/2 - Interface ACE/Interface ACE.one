@@ -1,0 +1,39 @@
+-
+	Interface ACE
+-
+	-
+		Philosophy
+	-
+		-
+			Interface ACE is a set of ACE extension conventions and Kaeon ACE conventions for
+			encoding the content of interface modules.
+		-
+	-
+		Principles
+	-
+		-
+			Format
+		-
+			-
+				Under interface ACE, an entity may represent an interface utility if it has a
+				source or locations component, both of which may be used to specify the utility
+				source of said utility.
+
+				Such entities are called interface entities, and the alias of an interface entity
+				specifies the alias of the interface utility it represents.
+
+				A source component is a Kaeon ACE component with the content "Source", which may
+				have any children such that said children specify the utility source of the
+				interface utility that the interface entity it belongs to represents.
+
+				A locations component is a Kaeon ACE component with the content "Locations", which
+				may have an indefinite number of children, the content of each specifying a
+				possible location at which the utility source of the interface utility that the
+				interface entity it belongs to represents may be located, with locations being
+				given priority in accordance with the indices of the elements that specify them.
+
+				If both a source and a locations component are present on a given interface entity,
+				the utility source specified by the source component may be defaulted to if the
+				locations specified by the locations component, which shall take priority over the
+				source component, are unavailable.
+			-

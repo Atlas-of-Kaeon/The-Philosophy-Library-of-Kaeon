@@ -1,0 +1,20 @@
+-
+	Standard Kaeon ACE
+-
+	-
+		Philosophy
+	-
+		-
+			Standard Kaeon ACE is a set of Kaeon ACE conventions consisting of the global component
+			convention, the meta component convention, and the query ACE conventions.
+		-
+	-
+		Principles
+	-
+		-
+			Letter Case
+		-
+			-
+				The letter case of the component aliases specified by standard Kaeon ACE is
+				irrelevant.
+			-

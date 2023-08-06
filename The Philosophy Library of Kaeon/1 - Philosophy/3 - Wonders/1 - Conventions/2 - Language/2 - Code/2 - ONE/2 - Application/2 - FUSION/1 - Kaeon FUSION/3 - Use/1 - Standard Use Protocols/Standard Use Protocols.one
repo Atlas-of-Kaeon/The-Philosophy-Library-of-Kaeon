@@ -1,0 +1,28 @@
+-
+	Standard Use Protocols
+-
+	-
+		Philosophy
+	-
+		-
+			The standard use protocols are the use protocols which Kaeon FUSION starts with by
+			default.
+		-
+	-
+		Principles
+	-
+		-
+			ACE Use Protocol
+		-
+			-
+				The ACE use protocol causes the use command to act as a use element, integrating
+				its children into the content of the union document of the Kaeon FUSION program.
+			-
+		-
+			Evaluate Use Protocol
+		-
+			-
+				The evaluate use protocol causes the use command to interpret all values returned
+				to it as string paths to Kaeon ACE documents to be integrated into the union
+				document of the Kaeon FUSION program.
+			-
