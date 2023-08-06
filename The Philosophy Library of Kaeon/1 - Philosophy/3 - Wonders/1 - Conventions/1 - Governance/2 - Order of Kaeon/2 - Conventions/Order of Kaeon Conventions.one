@@ -19,14 +19,36 @@
 			Organization
 		-
 			-
+				External
+			-
+				-
+					Recognized Fellows
+				-
+					-
+						An Order of Kaeon may officially recognize fellows, making them recognized
+						fellows.
+					-
+				-
+					Welcome Recognized Fellows
+				-
+					-
+						If an Order of Kaeon wishes to recognize an entity, but said entity is
+						unable to communicate their acceptance of said recognition, said Order of
+						Kaeon may make them recognized fellows referred to as welcome fellows until
+						they are able to confirm or reject their fellowship.
+
+						Recognized fellows that have confirmed their fellowship are referred to as
+						welcomed fellows.
+					-
+			-
 				Internal
 			-
 				-
 					Agents
 				-
 					-
-						Agents are fellows who work within conventional Orders of Kaeon, but can
-						choose to reject their own agent status.
+						Agents are welcomed fellows that work within conventional Orders of Kaeon,
+						but can choose to reject their own agent status.
 					-
 				-
 					ACEs
@@ -53,25 +75,6 @@
 						disbanding said conventional Order of Kaeon, the agents will select new
 						ACEs from among themselves. If no ACEs are selected, the conventional Order
 						of Kaeon will disband.
-					-
-			-
-				External
-			-
-				-
-					Recognized Fellows
-				-
-					-
-						An Order of Kaeon may officially recognize fellows, making them recognized
-						fellows.
-					-
-				-
-					Welcome Fellows
-				-
-					-
-						If an Order of Kaeon wishes to recognize an entity, but said entity is
-						unable to communicate their acceptance of said recognition, said Order of
-						Kaeon may make them welcome fellows until they are able to confirm or
-						reject their fellowship.
 					-
 		-
 			Data

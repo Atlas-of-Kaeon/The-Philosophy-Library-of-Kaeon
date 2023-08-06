@@ -19,10 +19,18 @@
 				its children into the content of the union document of the Kaeon FUSION program.
 			-
 		-
+			Content Use Protocol
+		-
+			-
+				The content use protocol causes the use command to interpret the content of all of
+				its children as string paths to Kaeon ACE documents to be integrated into the union
+				document of the Kaeon FUSION program, if said paths are valid.
+			-
+		-
 			Evaluate Use Protocol
 		-
 			-
 				The evaluate use protocol causes the use command to interpret all values returned
 				to it as string paths to Kaeon ACE documents to be integrated into the union
-				document of the Kaeon FUSION program.
+				document of the Kaeon FUSION program, if said paths are valid.
 			-
