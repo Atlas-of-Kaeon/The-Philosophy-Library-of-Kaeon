@@ -14,3 +14,18 @@
 			to said entity's descendant entities, unless overridden by the components of said
 			descendants.
 		-
+	-
+		Principles
+	-
+		-
+			Kaeon ACE Void
+		-
+			-
+				The Kaeon ACE void component convention is a Kaeon ACE convention regarding Kaeon
+				ACE void components.
+
+				A Kaeon ACE void component is a Kaeon ACE component element with the content "Void",
+				the aliases of the children of which specify the aliases of Kaeon ACE components
+				that the entity to which the Kaeon ACE void component belongs to shall not inherit
+				from said entity's ancestor Kaeon ACE entities.
+			-
