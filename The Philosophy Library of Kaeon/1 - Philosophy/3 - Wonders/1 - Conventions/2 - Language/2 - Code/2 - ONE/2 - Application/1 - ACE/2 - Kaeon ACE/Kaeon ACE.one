@@ -5,7 +5,7 @@
 		Philosophy
 	-
 		-
-			Kaeon ACE is a standard for using ACE elements to define a component-entity tree.
+			Kaeon ACE is an ACE convention for using ACE to define a component-entity tree.
 		-
 	-
 		Principles
@@ -37,11 +37,6 @@
 					entities within their parent Kaeon ACE entity, and the order in which Kaeon ACE
 					components are declared relative to other Kaeon ACE components within their
 					parent Kaeon ACE entity is referred to as their index, which starts at one.
-
-					Any child of a Kaeon ACE element other than the entities element and the
-					components element shall be interpreted as a Kaeon ACE element, and if the
-					entities element or the components element have no children, they shall be
-					interpreted as Kaeon ACE elements.
 				-
 		-
 			Conventions
@@ -59,14 +54,30 @@
 						The letter case of element content in Kaeon ACE is irrelevant.
 					-
 				-
-					Proper Form
+					Components
 				-
 					-
-						Kaeon ACE formatted such that Kaeon ACE elements have no children other
-						than the entities or components elements is said to be in proper form,
-						whereas Kaeon ACE that does not abide by this convention is said to be in
-						improper form.
+						Isolated Components
 					-
+						-
+							Kaeon ACE components may be used outside of Kaeon ACE elements within
+							generic ACE.
+						-
+					-
+						Kaeon ACE Nodes
+					-
+						-
+							Any child of a Kaeon ACE entity other than the entities element and the
+							components element may be interpreted as both a Kaeon ACE element and
+							as a Kaeon ACE component, and if the entities element or the components
+							element have no children, they shall be interpreted as such.
+
+							Elements interpreted this way are referred to as Kaeon ACE nodes.
+
+							If Kaeon ACE content does not contain any Kaeon ACE nodes, it is said
+							to be in proper form, whereas if it does contain Kaeon ACE nodes, it is
+							said to be in improper form.
+						-
 				-
 					Root as Entity
 				-

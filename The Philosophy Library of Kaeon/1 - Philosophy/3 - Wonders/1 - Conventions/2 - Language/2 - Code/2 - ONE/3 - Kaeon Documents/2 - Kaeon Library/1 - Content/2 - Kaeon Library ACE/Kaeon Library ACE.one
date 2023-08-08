@@ -11,8 +11,8 @@
 			entities of said Kaeon ACE entity.
 
 			If the library directory document is an ACE Kaeon document, then the Kaeon ACE entity
-			generated shall have all of the entities within the usage document derived from said
-			library directory document as children.
+			generated shall be the root Kaeon ACE entity of the usage document derived from said
+			library directory document.
 
 			If the library directory document is not an ACE Kaeon document, then the Kaeon ACE
 			entity generated shall be a Kaeon document utility interface entity derived from said

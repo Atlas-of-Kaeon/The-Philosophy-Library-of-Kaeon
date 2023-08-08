@@ -7,7 +7,21 @@
 		-
 			ACE is a system that allows ONE elements to be interpreted as object nodes within an
 			object model, structured according to their placement relative to each other.
-
-			A ONE element under the ACE system is referred to as an ACE element, and a ONE document
-			under the ACE system is referred to as an ACE document.
 		-
+	-
+		Principles
+	-
+		-
+			Content
+		-
+			-
+				A ONE element under the ACE system is referred to as an ACE element, and a ONE
+				document under the ACE system is referred to as an ACE document.
+			-
+		-
+			Conventions
+		-
+			-
+				A codified protocol specifying how an ACE element is to be interpreted according to
+				its content and children is referred to as an ACE convention.
+			-
