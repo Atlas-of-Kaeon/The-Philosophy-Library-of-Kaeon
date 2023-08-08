@@ -37,5 +37,6 @@
 				standard Kaeon library is that they must consist of a number signifying its
 				intended index relative to the other library directories within its parent
 				directory, followed by a space, followed by a dash, followed by another space,
-				followed by a string signifying the nature of its contents.
+				followed by a string, referred to as its alias, signifying the nature of its
+				contents.
 			-

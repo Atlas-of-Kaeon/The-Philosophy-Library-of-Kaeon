@@ -1,0 +1,11 @@
+-
+	Kaeon ACE Trace
+-
+	-
+		Philosophy
+	-
+		-
+			Kaeon ACE entities may function as tag trace modules, with their aliases, the aliases
+			of their components, and their indices functioning as trace tags, and their children
+			functioning as their connections.
+		-

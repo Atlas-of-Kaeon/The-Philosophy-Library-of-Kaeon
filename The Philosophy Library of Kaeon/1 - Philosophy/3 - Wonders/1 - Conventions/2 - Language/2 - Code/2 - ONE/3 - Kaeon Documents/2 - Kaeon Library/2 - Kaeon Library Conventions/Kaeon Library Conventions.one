@@ -47,13 +47,27 @@
 					-
 						The principles convention specifies that a Kaeon library may optionally
 						have a "Principles" folder nested in its root which shall contain Kaeon
-						documents, from which a usage document, called the usage library document
-						for said Kaeon library, may be derived from all standard interface ACE
-						within the use elements of the ACE Kaeon documents nested within said
-						folder, the active entities contained within said library usage document
-						specifying said library's Universal Atlas connections.
+						documents, and which shall be interpreted as Kaeon library ACE to derive a
+						usage document called the library document of said Kaeon library, which
+						shall be used to specify metadata regarding said Kaeon library.
+
+						The Kaeon document utilities within a Kaeon library document shall
+						constitute the meta library of said Kaeon library document.
+
+						Kaeon ACE entities within a library document may have the Kaeon Library
+						component attached, which has the alias "Kaeon Library", which indicates
+						that said entity specifies a resource that said Kaeon Library is connected
+						to within the universal atlas.
+
+						The aliases of said entities shall be the names of said resources, and said
+						entities may use interface ACE to specify the content or location of said
+						resources.
 
 						The principles folder may only contain library directories.
+
+						A codified protocol specifying additional ways in which the contents of a
+						library document may be used to specify metadata regarding its library is
+						referred to as a Kaeon library protocol.
 					-
 				-
 					Wonders

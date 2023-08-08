@@ -1,0 +1,20 @@
+-
+	Kaeon Library ACE
+-
+	-
+		Philosophy
+	-
+		-
+			A library directory within a Kaeon library may be interpreted as a Kaeon ACE entity by
+			interpreting the contents of its library directory document as a Kaeon ACE entity, and
+			then by interpreting its child directories in the same manner as child Kaeon ACE
+			entities of said Kaeon ACE entity.
+
+			If the library directory document is an ACE Kaeon document, then the Kaeon ACE entity
+			generated shall have all of the entities within the usage document derived from said
+			library directory document as children.
+
+			If the library directory document is not an ACE Kaeon document, then the Kaeon ACE
+			entity generated shall be a Kaeon document utility interface entity derived from said
+			document.
+		-

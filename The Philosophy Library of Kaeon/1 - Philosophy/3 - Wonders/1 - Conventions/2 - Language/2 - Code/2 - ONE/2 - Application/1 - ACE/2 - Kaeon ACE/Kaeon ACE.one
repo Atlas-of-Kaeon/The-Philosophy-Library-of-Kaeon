@@ -33,6 +33,11 @@
 					its content specifying its alias, and possibly its type, and its children
 					specifying its content.
 
+					The order in which Kaeon ACE entities are declared relative to other Kaeon ACE
+					entities within their parent Kaeon ACE entity, and the order in which Kaeon ACE
+					components are declared relative to other Kaeon ACE components within their
+					parent Kaeon ACE entity is referred to as their index, which starts at one.
+
 					Any child of a Kaeon ACE element other than the entities element and the
 					components element shall be interpreted as a Kaeon ACE element, and if the
 					entities element or the components element have no children, they shall be
@@ -61,6 +66,13 @@
 						than the entities or components elements is said to be in proper form,
 						whereas Kaeon ACE that does not abide by this convention is said to be in
 						improper form.
+					-
+				-
+					Root as Entity
+				-
+					-
+						The root of a Kaeon ACE document shall be interpreted as a Kaeon ACE
+						entity.
 					-
 			-
 				Kaeon ACE Conventions

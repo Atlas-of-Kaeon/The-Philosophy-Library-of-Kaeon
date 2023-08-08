@@ -1,0 +1,14 @@
+-
+	Kaeon Library Trace
+-
+	-
+		Philosophy
+	-
+		-
+			Library and general directories within Kaeon libraries, and the documents within them,
+			may function as tag trace modules, with their names, aliases, and indices functioning
+			as trace tags, and their children functioning as their connections.
+
+			These conventions can be applied to generic folders if they are interpreted as isolated
+			general directories.
+		-

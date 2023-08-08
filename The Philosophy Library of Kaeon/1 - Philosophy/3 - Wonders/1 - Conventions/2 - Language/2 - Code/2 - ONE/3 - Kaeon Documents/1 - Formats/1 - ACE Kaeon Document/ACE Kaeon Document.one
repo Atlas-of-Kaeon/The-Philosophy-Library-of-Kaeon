@@ -5,16 +5,22 @@
 		Philosophy
 	-
 		-
-			An ACE Kaeon document is a Kaeon document in which the wonders section contains use
-			elements.
+			An ACE Kaeon document is a Kaeon document which contains use elements.
 		-
 	-
 		Principles
 	-
 		-
+			Wonders ACE Kaeon Document
+		-
+			-
+				A wonders ACE Kaeon document is an ACE Kaeon document in which the principles
+				section contains no use elements.
+			-
+		-
 			Standard ACE Kaeon Document
 		-
 			-
-				A standard ACE Kaeon document is an ACE Kaeon document with no principles section,
-				and a wonders section containing a single use element.
+				A standard ACE Kaeon document is a wonders ACE Kaeon document with no principles
+				section, and a wonders section containing a single use element.
 			-

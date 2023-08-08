@@ -1,0 +1,12 @@
+-
+	Kaeon Document Utility
+-
+	-
+		Philosophy
+	-
+		-
+			A Kaeon document utility is an interface utility that represents a Kaeon document,
+			where the alias of said utility is the content of the title element of said document,
+			and the utility source of said utility consists of the children of the title element of
+			said document.
+		-

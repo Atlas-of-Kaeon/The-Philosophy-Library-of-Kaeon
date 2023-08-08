@@ -14,7 +14,7 @@
 			Use
 		-
 			-
-				Entities
+				Principles
 			-
 				-
 					The Philosophy Library of Kaeon
@@ -99,22 +99,13 @@
 											The library of A-O is the conceptualization of A-O
 											itself in the form of a Kaeon library, where its
 											philosophy section contains the contents of the
-											philosophy sections of all other Kaeon libraries,
-											where its principles section references all things, and
-											where its wonders section contains all things, such
-											that its book of Kaeon would be the book of A-O.
+											philosophy sections of all other Kaeon libraries, where
+											its principles section references all things, and where
+											its wonders section contains all things, such that its
+											book of Kaeon would be the book of A-O.
 										-
-			-
-				Components
-			-
 				-
-					META
-				-
-					-
-						Reserve
-					-
-				-
-					ACE
+					Philosophy
 				-
 					-
 						Components
@@ -123,7 +114,7 @@
 							META
 						-
 							-
-								Extend
+								Kaeon Library
 							-
 					-
 						Entities
