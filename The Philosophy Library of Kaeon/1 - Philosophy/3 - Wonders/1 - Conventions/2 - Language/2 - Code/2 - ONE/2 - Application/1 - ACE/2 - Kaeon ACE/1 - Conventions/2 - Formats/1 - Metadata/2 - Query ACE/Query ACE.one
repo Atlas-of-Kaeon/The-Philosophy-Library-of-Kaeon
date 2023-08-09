@@ -20,10 +20,11 @@
 					Entities
 				-
 					-
-						The Kaeon ACE components of query ACE specify properties of ACE references,
-						and Kaeon ACE entities of query ACE, called query entities, represent ACE
-						references to which said properties apply, the aliases of said entities
-						specifying the aliases of the targets of said references.
+						The Kaeon ACE components of query ACE, called the query ACE components,
+						specify properties of ACE references, and Kaeon ACE entities to which query
+						ACE components are applied, called query entities, represent ACE references
+						to which said properties apply, the aliases of said entities specifying the
+						aliases of the targets of said references.
 					-
 				-
 					Aliases
@@ -47,19 +48,20 @@
 					ACE Component
 				-
 					-
-						A Kaeon ACE component with the content "ACE" may have a query ACE document
-						embedded within it, which extends the contents of the Kaeon ACE entity to
-						which it applies in accordance with the other components which apply to
-						said Kaeon ACE entity.
+						A Kaeon ACE component with the content "ACE" may have a query ACE document,
+						which is a Kaeon ACE document containing query entities, embedded within
+						it, which extends the contents of the Kaeon ACE entity to which it applies,
+						in accordance with the other components which apply to said Kaeon ACE
+						entity.
 					-
 		-
-			Components
+			Query ACE Components
 		-
 			-
-				Location
+				Locations
 			-
 				-
-					The location component is a Kaeon ACE component with the content "Location",
+					The locations component is a Kaeon ACE component with the content "Locations",
 					which may have an indefinite number of children that specify possible locations
 					of documents in which to find the target of the ACE references to which it
 					applies, with the first locations listed given preference.
@@ -115,4 +117,7 @@
 					The multiselect component is a Kaeon ACE component with the content
 					"Multiselect", and indicates that an ACE reference it is applied to has
 					multiselect status, meaning it may target multiple ACE elements.
+
+					If multiple targets are selected, their indices shall be assigned according to
+					the indices of the query ACE components which targeted them.
 				-

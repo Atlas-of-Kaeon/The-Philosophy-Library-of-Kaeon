@@ -27,6 +27,12 @@
 				-
 					-
 						ACE references may each have multiple targets.
+						
+						Said targets shall be arranged in a specific order by index, said indices
+						starting at one.
+
+						The target with the lowest index shall be referred to as the default
+						target.
 					-
 			-
 				Types
