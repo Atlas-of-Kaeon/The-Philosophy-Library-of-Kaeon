@@ -16,10 +16,11 @@
 		-
 			-
 				In a ONE document which is not an ACE document, but to which the use convention is
-				applied, a use element, which is any element for which the content is "Use", letter
-				case irrelevant, shall be interpreted such that its children shall be implicitly
-				added, in the order which said use element occurs relative to other use elements in
-				its document, to the root of a usage document.
+				applied, a use element, which is any element for which the content is "Use" and
+				which has no ancestor element with the content "Use", letter case irrelevant, shall
+				be interpreted such that its children shall be implicitly added, in the order which
+				said use element occurs relative to other use elements in its document, to the root
+				of a usage document.
 
 				This may also be done with an order set of ONE documents to generate a single usage
 				document, the relevant contents of said documents being added to said usage
