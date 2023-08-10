@@ -100,6 +100,7 @@
 		-
 			Trace Filtering
 		-
+			-
 				Trace filtering is a process which, using a given graph and a given trace path,
 				identifies nodes within said graph that may be reached at the end of trace path
 				traversals within said graph using said trace path.
