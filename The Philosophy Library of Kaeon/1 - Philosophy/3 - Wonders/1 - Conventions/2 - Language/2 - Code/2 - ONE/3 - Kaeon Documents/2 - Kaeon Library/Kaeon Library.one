@@ -30,6 +30,13 @@
 			Conventions
 		-
 			-
+				Standard Kaeon Library
+			-
+				-
+					A standard Kaeon library is a Kaeon library where all of the library directory
+					documents are Kaeon documents.
+				-
+			-
 				Naming
 			-
 				-
@@ -44,11 +51,4 @@
 					parent directory, said indices starting at one, which, if the directory has an
 					alias, shall be followed by a space, followed by a dash, followed by another
 					space, followed by said alias.
-				-
-			-
-				Standard Kaeon Library
-			-
-				-
-					A standard Kaeon library is a Kaeon library where all of the library directory
-					documents are Kaeon documents.
 				-
