@@ -27,15 +27,8 @@
 				Directories within a library directory must be arranged in a specific order.
 			-
 		-
-			Conventions
+			Content
 		-
-			-
-				Standard Kaeon Library
-			-
-				-
-					A standard Kaeon library is a Kaeon library where all of the library directory
-					documents are Kaeon documents.
-				-
 			-
 				Naming
 			-
@@ -45,10 +38,17 @@
 					The master directory must have an alias, which shall be its name and the name
 					of the library.
 					
-					The naming convention for library directories other than the master directory
-					in a standard Kaeon library is that they must consist of a number signifying
-					the index of its order relative to the other library directories within its
-					parent directory, said indices starting at one, which, if the directory has an
-					alias, shall be followed by a space, followed by a dash, followed by another
-					space, followed by said alias.
+					The standard naming convention for any library directory other than the master
+					directory in a Kaeon library is that its name must consist of a number
+					specifying the index of its order relative to the other library directories
+					within its parent directory, said indices starting at one, and, if said
+					directory has an alias, said number shall be followed by a space, followed by a
+					dash, followed by another space, followed by said alias.
+				-
+			-
+				Standard Kaeon Library
+			-
+				-
+					A standard Kaeon library is a Kaeon library where all of the library directory
+					documents are Kaeon documents.
 				-
