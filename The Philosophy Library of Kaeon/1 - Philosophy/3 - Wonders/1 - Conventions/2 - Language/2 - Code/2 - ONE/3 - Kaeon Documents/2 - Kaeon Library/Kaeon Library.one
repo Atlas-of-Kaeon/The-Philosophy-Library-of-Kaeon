@@ -33,7 +33,7 @@
 				Naming
 			-
 				-
-					Each library may optionally have a string alias.
+					Each library directory may optionally have a string alias.
 
 					The master directory must have an alias, which shall be its name and the name
 					of the library.
