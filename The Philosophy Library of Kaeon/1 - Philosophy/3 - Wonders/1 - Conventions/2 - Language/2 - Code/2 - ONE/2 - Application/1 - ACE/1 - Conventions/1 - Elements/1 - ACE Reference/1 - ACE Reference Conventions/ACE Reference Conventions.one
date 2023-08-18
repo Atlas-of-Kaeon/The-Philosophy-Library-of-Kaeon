@@ -48,6 +48,9 @@
 						The default interpretation of extension ACE references has them swapped out
 						for their targets, but this may be altered by the properties of the
 						document to which they belong.
+						
+						With the default interpretation, an additional default behavior is the
+						automatic filtering of looping connections.
 
 						A codified protocol for an alternate means of interpreting extension ACE
 						references is referred to as an ACE extension convention.

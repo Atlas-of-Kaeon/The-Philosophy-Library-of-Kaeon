@@ -82,50 +82,69 @@
 						directories.
 					-
 		-
-			Ordering
+			Organization
 		-
 			-
-				Order
+				Ordering
 			-
 				-
-					The order convention specifies that the philosophy folder, if present, shall be
-					ordered before any other folders in the root, and that the wonders folder shall
-					be ordered after any other folders in the root, and that aside from said
-					folders and the master document, no other items may be nested in the root.
+					Order
 				-
+					-
+						The order convention specifies that the philosophy folder, if present,
+						shall be ordered before any other folders in the root, and that the wonders
+						folder shall be ordered after any other folders in the root, and that aside
+						from said folders and the master document, no other items may be nested in
+						the root.
+					-
+				-
+					Kaeon Library Atlas
+				-
+					-
+						A named group of Kaeon libraries is called a Kaeon library atlas.
+						
+						The Kaeon libraries in a given Kaeon library atlas may be arranged in a
+						specific order relative to one another, referred to as their meta-order.
+					-
 			-
-				Kaeon Library Atlas
+				Compilation
 			-
 				-
-					A named group of Kaeon libraries is called a Kaeon library atlas.
-					
-					The Kaeon libraries in a given Kaeon library atlas may be arranged in a
-					specific order relative to one another, referred to as their meta-order.
+					Kaeon Library Overlay
 				-
-		-
-			Book
-		-
-			-
-				The book of a conventional Kaeon library consists of the contents of the master
-				document, if present, the philosophy folder, if present, and the principles folder,
-				if present, said sections and contents being arranged in order.
+					-
+						A Kaeon library atlas may be combined using a form of folder overlay where
+						the subfolders of library directories are ordered according to the meta
+						order of the atlas, their indices and names being reassigned accordingly,
+						and where the library directory documents of library directories, if there
+						are multiple them, are combined into a single poly Kaeon document with its
+						constituent documents ordered according to the meta order of the atlas.
+					-
+				-
+					Kaeon Library Book
+				-
+					-
+						The book of a conventional Kaeon library consists of the contents of the
+						master document, if present, the philosophy folder, if present, and the
+						principles folder, if present, said sections and contents being arranged in
+						order.
 
-				An extended book of a conventional Kaeon library follows the aforementioned
-				contents with some, in the case of a partial extended book, or all, in the case of
-				a complete extended book, of contents of the wonders folder, if present, said
-				contents being arranged in order.
+						An extended book of a conventional Kaeon library follows the aforementioned
+						contents with some, in the case of a partial extended book, or all, in the
+						case of a complete extended book, of contents of the wonders folder, if
+						present, said contents being arranged in order.
 
-				The book document of a conventional Kaeon library consists of the contents of the
-				Kaeon documents that compose its book nested as children in order into the root of
-				an otherwise empty Kaeon document.
+						The book document of a conventional Kaeon library consists of the contents
+						of the Kaeon documents that compose its book nested as children in order
+						into the root of an otherwise empty Kaeon document.
 
-				A composite Kaeon library book consists of the contents of the books of every Kaeon
-				library in a given Kaeon library atlas concatenated together, in their meta-order
-				if said order is defined, or in no particular order if it is not, from which a book
-				document may be derived by treating the composite Kaeon library book as a single
-				book.
+						A composite Kaeon library book consists of the contents of the books of
+						every Kaeon library in a given Kaeon library atlas concatenated together,
+						in their meta-order if said order is defined, or in no particular order if
+						it is not, from which a book document may be derived by treating the
+						composite Kaeon library book as a single book.
 
-				The name of a Kaeon library book for a single Kaeon library or a Kaeon library
-				atlas shall consist of the string "The Book of ", followed by the name of said
-				library or atlas.
-			-
+						The name of a Kaeon library book for a single Kaeon library or a Kaeon
+						library atlas shall consist of the string "The Book of ", followed by the
+						name of said library or atlas.
+					-

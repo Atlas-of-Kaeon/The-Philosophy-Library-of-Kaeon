@@ -1,0 +1,29 @@
+-
+	Philosopher's Overlay
+-
+	-
+		Philosophy
+	-
+		-
+			Philosopher's element overlay is a process which, using a given set of analogous graph
+			nodes or analogous graph connections, combines them into a single node with all the
+			properties of the original nodes or connection preserved to the greatest extent
+			possible.
+			
+			Philosopher's graph overlay is a process which, using a given set of graphs, combines
+			the nodes and connections of each graph in the set to form a single graph, while also
+			performing philosopher's element overlay on any analogous nodes or connections among
+			said set of graphs.
+		-
+	-
+		Principles
+	-
+		-
+			Folder Overlay
+		-
+			-
+				Folders may be combined using philosopher's overlay, with a nested set of folders
+				being interpreted as a tree and the contents of analogous folders being combined.
+
+				This process is called folder overlay.
+			-
