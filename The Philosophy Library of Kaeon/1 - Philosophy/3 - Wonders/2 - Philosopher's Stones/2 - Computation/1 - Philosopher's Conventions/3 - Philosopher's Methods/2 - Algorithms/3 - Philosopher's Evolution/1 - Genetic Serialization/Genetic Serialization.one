@@ -1,0 +1,11 @@
+-
+	Genetic Serialization
+-
+	-
+		Philosophy
+	-
+		-
+			Genetic serialization is the usage of the serialization of the current state of a given
+			process as a seed in genetic algorithms as opposed to an initial seed value from which
+			a process was spawned.
+		-

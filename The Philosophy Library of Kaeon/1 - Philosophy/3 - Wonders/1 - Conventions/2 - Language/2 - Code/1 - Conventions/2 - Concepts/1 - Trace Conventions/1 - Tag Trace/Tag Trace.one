@@ -8,8 +8,27 @@
 			Alphanumeric identifiers, called trace tags, assigned to nodes in a graph to which the
 			trace conventions are applied, may be used by trace classes, called tag trace classes,
 			which filter for nodes to which certain specific trace tags are assigned.
-
-			Trace paths consisting solely of tag trace classes may be referred to as tag trace
-			classes, tag trace classes requiring only one trace tag may be referred to as single
-			trace tags, and nodes which utilize trace tags may be referred to as trace tag modules.
 		-
+	-
+		Principles
+	-
+		-
+			Terms
+		-
+			-
+				Trace paths consisting solely of tag trace classes may be referred to as tag trace
+				paths.
+				
+				Tag trace classes requiring only one trace tag may be referred to as single tag
+				trace classes, and tag trace paths which only contain single tag trace classes may
+				be referred to as single tag trace paths.
+				
+				Nodes which utilize trace tags may be referred to as tag trace modules.
+			-
+		-
+			Tag Trace IDs
+		-
+			-
+				For a given single tag trace path, the sequence of trace tags derived from said
+				path is referred to as a tag trace ID.
+			-
