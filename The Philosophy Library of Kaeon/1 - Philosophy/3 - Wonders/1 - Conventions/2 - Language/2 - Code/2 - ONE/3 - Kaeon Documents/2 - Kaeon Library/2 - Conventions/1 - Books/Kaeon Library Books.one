@@ -1,0 +1,125 @@
+-
+	Kaeon Library Books
+-
+	-
+		Philosophy
+	-
+		-
+			The book of a conventional Kaeon library consists of the contents of the master
+			document, if present, the philosophy folder, if present, and the principles folder, if
+			present, said sections and contents being arranged in order.
+		-
+	-
+		Principles
+	-
+		-
+			Conventions
+		-
+			-
+				Naming
+			-
+				-
+					The name of a Kaeon library book for a single Kaeon library or a Kaeon library
+					atlas shall consist of the string "The Book of ", followed by the name of said
+					library or atlas.
+				-
+			-
+				Book Document
+			-
+				-
+					The book document of a conventional Kaeon library consists of the contents of
+					the Kaeon documents that compose its book nested as children in order into the
+					root of an otherwise empty poly Kaeon document.
+				-
+			-
+				Types
+			-
+				-
+					Composite Kaeon Library Book
+				-
+					-
+						A composite Kaeon library book consists of the contents of the books of
+						every Kaeon library in a given Kaeon library atlas concatenated together,
+						in their meta-order if said order is defined, or in no particular order if
+						it is not, from which a book document may be derived by treating the
+						composite Kaeon library book as a single book.
+					-
+				-
+					Extended Book
+				-
+					-
+						An extended book of a conventional Kaeon library follows the contents of a
+						conventional Kaeon library book with some, in the case of a partial
+						extended book, or all, in the case of a complete extended book, of contents
+						of the wonders folder, if present, said contents being arranged in order.
+					-
+		-
+			Book Document Format
+		-
+			-
+				General
+			-
+				-
+					Notation
+				-
+					-
+						Metadata may be added to a Kaeon library book document by adding ACE use
+						elements between the Kaeon documents of said book document. Such use
+						elements are referred to as notation elements, with all other documents in
+						a Kaeon library book referred to as content documents.
+
+						A notation element which uses a query ACE locations component to specify
+						the locations of a given folder within a Kaeon library or Kaeon library
+						atlas is referred to as a reference notation element.
+
+						The content of notation elements, when specifying paths, may, and should by
+						default, use a colon followed by a space as the path separator.
+					-
+				-
+					Kaeon Asset Documents
+				-
+					-
+						Kaeon asset documents are meta Kaeon documents used to represent and store
+						assets which are not themselves Kaeon documents.
+
+						If a Kaeon asset document represents an asset written in plain text, it
+						shall be referred to as readable, and as non-readable otherwise.
+
+						The content of the title element of a Kaeon document shall be the name of
+						the asset it represents, and the wonders section of the document shall
+						contain an ACE use element acting as an interface ACE entity specifying the
+						content or locations of said asset.
+					-
+			-
+				Variants
+			-
+				-
+					Standard
+				-
+					-
+						A standard Kaeon library book is a Kaeon library book document which begins
+						with a reference notation element specifying the Kaeon library or Kaeon
+						library atlas which contains the contents of the book, and in which every
+						content document is preceded by a reference notation element specifying its
+						location within said Kaeon library or Kaeon library atlas.
+					-
+				-
+					Reduced
+				-
+					-
+						A reduced Kaeon library book is a Kaeon library book or composite Kaeon
+						library book that omits the principles sections of the Kaeon libraries
+						within it.
+					-
+				-
+					Extended
+				-
+					-
+						Standard Kaeon library books for extended Kaeon libraries shall use Kaeon
+						asset documents to represent any document in a wonders folder of a Kaeon
+						library which is not a Kaeon document.
+
+						The contents of general directories in a wonders folder of such a book
+						shall first be arranged hierarchically, and shall then be arranged in
+						alphanumerical order.
+					-

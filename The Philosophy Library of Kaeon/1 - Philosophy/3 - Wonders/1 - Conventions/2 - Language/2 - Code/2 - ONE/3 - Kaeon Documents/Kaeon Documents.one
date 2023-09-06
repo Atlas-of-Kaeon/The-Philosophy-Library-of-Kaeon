@@ -54,4 +54,8 @@
 				-
 					An informal Kaeon document refers to any document that follows an inexact
 					version of the Kaeon document format.
+
+					An informal Kaeon document which deviates from the Kaeon document format only
+					by omitting its philosophy section, and which has a principles or wonders
+					section, is called a meta Kaeon document.
 				-

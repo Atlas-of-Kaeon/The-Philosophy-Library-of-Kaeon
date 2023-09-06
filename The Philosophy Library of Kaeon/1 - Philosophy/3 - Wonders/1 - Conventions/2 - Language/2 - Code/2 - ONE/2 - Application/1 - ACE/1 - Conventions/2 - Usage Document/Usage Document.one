@@ -25,4 +25,7 @@
 				This may also be done with an order set of ONE documents to generate a single usage
 				document, the relevant contents of said documents being added to said usage
 				document in said order.
+
+				ACE content declared within use elements may take into account the location of said
+				use elements and the surrounding content thereof when being interpreted.
 			-
