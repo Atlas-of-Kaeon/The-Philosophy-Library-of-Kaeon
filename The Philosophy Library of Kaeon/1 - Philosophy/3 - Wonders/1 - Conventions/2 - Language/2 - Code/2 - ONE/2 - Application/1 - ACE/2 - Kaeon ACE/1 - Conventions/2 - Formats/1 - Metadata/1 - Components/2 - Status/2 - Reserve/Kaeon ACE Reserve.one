@@ -9,7 +9,7 @@
 			ACE reserve components.
 
 			A Kaeon ACE reserve component is a Kaeon ACE component element with the content
-			"reserve".
+			"Reserve".
 
 			If attached to a given entity, it will prevent said entity from having an effect within
 			an ACE context, however, the effect of this component is disabled where an entity it is

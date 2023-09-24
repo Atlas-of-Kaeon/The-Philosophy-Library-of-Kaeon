@@ -9,7 +9,7 @@
 			global components.
 
 			A Kaeon ACE global component is a Kaeon ACE component element with the content
-			"global".
+			"Global".
 
 			If attached to a given entity, it will cause any other entity that shares its alias to
 			share said given entity's components, unless said components are overridden by the
