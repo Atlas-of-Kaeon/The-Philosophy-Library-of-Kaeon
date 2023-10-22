@@ -24,8 +24,11 @@
 				The Kaeon ACE void component convention is a Kaeon ACE convention regarding Kaeon
 				ACE void components.
 
-				A Kaeon ACE void component is a Kaeon ACE component element with the content "Void",
-				the aliases of the children of which specify the aliases of Kaeon ACE components
-				that the entity to which the Kaeon ACE void component belongs to shall not inherit
-				from said entity's ancestor Kaeon ACE entities.
+				A Kaeon ACE void component is a Kaeon ACE component element with the content
+				"Void", the content of the children of which specify the aliases of Kaeon ACE
+				components that the Kaeon ACE entity to which said Kaeon ACE void component
+				belongs, and said Kaeon ACE entity's descendant Kaeon ACE entities, shall not
+				inherit from said Kaeon ACE entity's ancestor Kaeon ACE entities via the Kaeon ACE
+				META component. If a Kaeon ACE void component has no children, it shall block the
+				inheritance of all such Kaeon ACE components.
 			-
