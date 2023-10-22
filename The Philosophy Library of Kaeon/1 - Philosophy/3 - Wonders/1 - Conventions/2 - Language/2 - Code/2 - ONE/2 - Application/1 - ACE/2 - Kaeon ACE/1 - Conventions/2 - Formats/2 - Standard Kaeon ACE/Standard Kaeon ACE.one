@@ -5,9 +5,10 @@
 		Philosophy
 	-
 		-
-			Standard Kaeon ACE is a set of Kaeon ACE conventions consisting of the META component
-			convention, the global component convention, the reserve component convention, and the
-			query ACE conventions.
+			Standard Kaeon ACE is a set of Kaeon ACE conventions consisting of the Kaeon ACE META
+			component convention, the Kaeon ACE void component convention, the Kaeon ACE global
+			component convention, the Kaeon ACE reserve component convention, and the query ACE
+			conventions.
 		-
 	-
 		Principles
