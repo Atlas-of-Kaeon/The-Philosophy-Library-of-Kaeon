@@ -1,0 +1,78 @@
+-
+	Creed of Kaeon Renderings
+-
+	-
+		Philosophy
+	-
+		-
+			A Creed of Kaeon rendering is a single document that contains the entirety of the Creed
+			of Kaeon.
+		-
+	-
+		Principles
+	-
+		-
+			Forms
+		-
+			-
+				Conventional Rendering
+			-
+				-
+					When rendering the Creed of Kaeon as a single Kaeon document in its
+					conventional rendering, a principles section is added to the document
+					containing Kaeon, and added as children to said principles section, in the
+					following order, are the title elements, together with their respective
+					descendant elements, of the documents containing the Philosophy of Kaeon, the
+					Principles of Kaeon, and the Wonders of Kaeon.
+
+					For a resolved Creed of Kaeon, a principles section is added to the documents
+					containing the Philosophy of Kaeon and the Principles of Kaeon, and added as
+					children to said principles sections are the title elements, together with
+					their respective descendant elements, of the Kaeon documents containing the
+					respective resolutions of the Philosophy of Kaeon and the Principles of Kaeon.
+
+					Any other rendering of the Creed of Kaeon as a single Kaeon document is
+					referred to as a non-conventional Kaeon document rendering.
+				-
+			-
+				Non-Conventional Renderings
+			-
+				-
+					Linear Rendering
+				-
+					-
+						The linear rendering of the Creed of Kaeon maps the content of the Creed of
+						Kaeon to a single line of text, taking the content of the philosophy
+						sections, and the content of every element which has no children in the
+						principles sections, of the documents containing Kaeon, the Philosophy of
+						Kaeon, the Principles of Kaeon, the Wonders of Kaeon, and any resolutions
+						thereof, unwrapping them, and concatenating them together according to
+						their order in the conventional rendering of the Creed of Kaeon, separated
+						by a space.
+
+						Any other rendering of the Creed of Kaeon as a single line of text is
+						referred to as a non-conventional linear rendering.
+
+						If injecting a linear rendering of the Creed of Kaeon into other text, its
+						beginning or end may be marked with a ONE terminating sequence, separated
+						from the rendering itself by a space.
+					-
+		-
+			Extension
+		-
+			-
+				Extension of the Creed of Kaeon consists of modifying the content of a rendering of
+				it to provide a resolution to the Wonders of Kaeon.
+				
+				For a conventional rendering, the default method of doing this is by adding a
+				wonders section to the document and adding elements to said wonders section which
+				provide said answer. In this case, the content of the title element of the document
+				may be changed.
+				
+				If using an extended Creed of Kaeon as a charter or constitution, it is standard to
+				make said wonders section an amenable ONE element, especially for Orders of Kaeon.
+				
+				For a linear rendering, the default method of doing this is by adding text
+				specifying the answer to the end of the rendering, separated from the preceding
+				text by a space.
+			-
