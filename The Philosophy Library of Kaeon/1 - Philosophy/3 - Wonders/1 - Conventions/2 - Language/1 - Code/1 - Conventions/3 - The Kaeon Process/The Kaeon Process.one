@@ -1,0 +1,65 @@
+-
+	The Kaeon Process
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon process is a project development methodology.
+		-
+	-
+		Principles
+	-
+		-
+			The Three Branches
+		-
+			-
+				A project developed under the Kaeon process has three branches, these being the
+				specification, the documentation, and the implementations.
+
+				The specification is a set of written texts that define and specify the nature and
+				aspects of the product or service that the developers intend to produce.
+
+				The documentation are the documents that outline all aspects of the project that
+				lie outside the scope of the specification.
+
+				An implementation, of which there may be many, is a partially or completely
+				developed product or service engineered according to the terms of the
+				specification.
+			-
+		-
+			Conventions
+		-
+			-
+				Crystallization and Fragmentation
+			-
+				-
+					Combining the specifications of multiple projects into a single specification
+					is referred to as project crystallization, and the separation of a single
+					specification into multiple specifications for separate projects is referred to
+					as project fragmentation.
+				-
+			-
+				Project Pivots
+			-
+				-
+					The specification may be modified at any time and for any reason, after which
+					the documentation and the implementations must be changed in order to conform
+					to it.
+
+					Thus, any major update to the plan of the project should begin with a
+					modification to the specification.
+
+					Such an update can be called a project pivot.
+				-
+			-
+				Term Hierarchy
+			-
+				-
+					The terms of the specification should be arranged into a hierarchy, ordered
+					with the most fundamental elements of the project closer to the top and the
+					least fundamental elements of the project closer to the bottom.
+
+					There should be a single term at the top of the hierarchy that defines the
+					overall idea of the project called the master term.
+				-

@@ -5,7 +5,7 @@
 		Philosophy
 	-
 		-
-			A Philosopher's Interface is a defined module which may be executed with a
+			A Philosopher's Interface is a defined process which may be executed with a
 			Philosopher's Atlas passed to it as one of an indefinite number of arguments, and may
 			alter the structure of said Philosopher's Atlas upon said execution.
 		-

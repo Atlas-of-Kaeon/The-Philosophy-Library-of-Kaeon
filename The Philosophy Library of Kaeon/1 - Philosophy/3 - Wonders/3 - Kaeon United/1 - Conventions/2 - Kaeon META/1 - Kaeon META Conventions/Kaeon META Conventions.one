@@ -11,35 +11,32 @@
 		Principles
 	-
 		-
-			Kaeon META Architecture
+			Kaeon Kor
 		-
 			-
-				Kaeon META shall be implemented as an Aether Union, called Kaeon Aether, with an
-				Aether Interface to Kaeon Aether, called Kaeon Oracle, which can also function as a
-				Genesis Philosopher's Seed to Kaeon Aether, implemented as a dynamic response
-				platform into Kaeon Origin.
-			-
-		-
-			Kaeon META Usage
-		-
-			-
-				Kaeon Profile
-			-
-				-
-					The data that a given user stores within Kaeon META may be collectively
-					referred to as said user's Kaeon profile.
-				-
-			-
-				Kaeon FUSION
-			-
-				-
-					Included in the Kaeon United FUSION interface shall be the Kaeon META command,
-					which shall work as follows:
+				Kaeon META shall be implemented upon a Philosopher's System called Kaeon Kor, for
+				which the Philosopher's Suite is Kaeon United, for which the Aether Union is called
+				Kaeon Aether, for which the Philosopher's Corpus called Kaeon Sigma, and for which the
+				Philosopher's Vault is called Kaeon Gaia.
 
-					At step three of the FUSION process, an element with the content "Kaeon META",
-					when processed as a command, shall send each value returned to it to Kaeon
-					META, and may return any value should Kaeon META send a value back in response.
+				Kaeon Aether shall have an Aether Interface called Kaeon Oracle, implemented as a
+				dynamic response platform into Kaeon Origin, which can also function as a Genesis
+				Philosopher's Seed to Kaeon Aether.
 
-					Furthermore, once the Kaeon United FUSION interface has been integrated, Kaeon
-					META shall be able to modify the state of the program.
-				-
+				The data that a given user stores within Kaeon Kor may be collectively referred to
+				as said user's Kaeon profile.
+			-
+		-
+			Kaeon FUSION
+		-
+			-
+				Included in the Kaeon United FUSION interface shall be the Kaeon META command,
+				which shall work as follows:
+
+				At step three of the FUSION process, an element with the content "Kaeon META", when
+				processed as a command, shall send each value returned to it to Kaeon META, and may
+				return any value should Kaeon META send a value back in response.
+
+				Furthermore, once the Kaeon United FUSION interface has been integrated, Kaeon META
+				shall be able to modify the state of the program.
+			-

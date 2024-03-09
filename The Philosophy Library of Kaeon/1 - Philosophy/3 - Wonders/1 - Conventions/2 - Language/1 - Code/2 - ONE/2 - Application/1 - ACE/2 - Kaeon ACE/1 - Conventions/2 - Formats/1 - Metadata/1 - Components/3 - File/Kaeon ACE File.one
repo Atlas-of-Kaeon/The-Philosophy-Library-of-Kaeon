@@ -1,0 +1,17 @@
+-
+	Kaeon ACE File
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon ACE file component convention is a Kaeon ACE convention regarding Kaeon ACE
+			file components.
+
+			A Kaeon ACE file component is a Kaeon ACE component element with the content "File".
+
+			It shall have children which each specify a path to a given resource, with the
+			available paths being preferred in order of their index, and shall represent said
+			resource as itself being a component of the Kaeon ACE entity to which the component
+			belongs.
+		-

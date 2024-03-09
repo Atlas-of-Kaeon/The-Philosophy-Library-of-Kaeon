@@ -1,0 +1,23 @@
+-
+	Philosopher's Corpus
+-
+	-
+		Philosophy
+	-
+		-
+			A Philosopher's Corpus is a defined interface to a set of databases, referred to as the
+			Philosopher's Vault of the Philosopher's Corpus, which treats the data stored in said
+			Philosopher's Vault as a Philosopher's Atlas, and which itself can operate as a node on
+			a Philosopher's Atlas.
+		-
+	-
+		Principles
+	-
+		-
+			Mirror Vault
+		-
+			-
+				A mirror vault is a section of an external Philosopher's Vault stored within an
+				application and mapped to the same Philosopher's Corpus, such that changes made to
+				it persist to said external Philosopher's Vault.
+			-

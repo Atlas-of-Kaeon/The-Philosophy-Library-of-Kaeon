@@ -1,0 +1,11 @@
+-
+	Graph Document
+-
+	-
+		Philosophy
+	-
+		-
+			Document formats which encode their content as a tree may be used to represent
+			amorphous graphs through constructs, called graph references, which represent links
+			between their parent nodes and nodes located elsewhere.
+		-
