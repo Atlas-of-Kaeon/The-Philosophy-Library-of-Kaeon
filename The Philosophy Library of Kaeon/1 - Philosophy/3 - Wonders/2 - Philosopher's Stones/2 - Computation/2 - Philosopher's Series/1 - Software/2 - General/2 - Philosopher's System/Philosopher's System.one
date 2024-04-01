@@ -8,10 +8,23 @@
 			A Philosopher's System is a system architecture where an Aether Union, for which the
 			applications and utilities that compose it are derived from a Philosopher's Suite,
 			operates on a Philosopher's Vault via a Philosopher's Corpus.
+
+			A codified standard for a Philosopher's System is called a Philosopher's System
+			convention.
 		-
 	-
 		Principles
 	-
+		-
+			Philosopher's Image
+		-
+			-
+				A Philosopher's Image is a software system derived from a given Philosopher's
+				System that operates externally from said Philosopher's System.
+				
+				A codified standard for a Philosopher's Image derived from a given Philosopher's
+				System is called a Philosopher's Image convention.
+			-
 		-
 			Philosopher's Integration
 		-
