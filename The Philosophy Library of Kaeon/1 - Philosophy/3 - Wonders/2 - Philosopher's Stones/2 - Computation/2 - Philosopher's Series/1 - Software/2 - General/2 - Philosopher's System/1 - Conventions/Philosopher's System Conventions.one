@@ -1,0 +1,52 @@
+-
+	Philosopher's System Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			This document specifies conventions for Philosopher's Systems.
+		-
+	-
+		Principles
+	-
+		-
+			External Systems
+		-
+			-
+				Philosopher's Imposition
+			-
+				-
+					Philosopher's imposition is the usage of a system which is not a Philosopher's
+					System as though it were a Philosopher's System.
+					
+					A codified standard for Philosopher's Imposition upon a given system is called
+					a Philosopher's Imposition standard.
+				-
+			-
+				Philosopher's Integration
+			-
+				-
+					Philosopher's Integration is the transition of a system which is not a
+					Philosopher's System to a Philosopher's System.
+				-
+		-
+			Internal Management
+		-
+			-
+				Philosopher's Image
+			-
+				-
+					A Philosopher's Image is a software system derived from a given Philosopher's
+					System that operates externally from said Philosopher's System.
+					
+					A codified standard for a Philosopher's Image derived from a given
+					Philosopher's System is called a Philosopher's Image standard.
+				-
+			-
+				Philosopher's State
+			-
+				-
+					A Philosopher's State is a serializable and deserializable model of the state
+					of a Philosopher's System at a given point in time.
+				-
