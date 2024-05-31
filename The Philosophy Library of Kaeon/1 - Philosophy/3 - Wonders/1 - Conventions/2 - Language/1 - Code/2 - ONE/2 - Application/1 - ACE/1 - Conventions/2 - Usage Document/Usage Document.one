@@ -22,10 +22,17 @@
 				said use element occurs relative to other use elements in its document, to the root
 				of a usage document.
 
-				This may also be done with an order set of ONE documents to generate a single usage
-				document, the relevant contents of said documents being added to said usage
+				This may also be done with an ordered set of ONE documents to generate a single
+				usage document, the relevant contents of said documents being added to said usage
 				document in said order.
 
 				ACE content declared within use elements may take into account the location of said
 				use elements and the surrounding content thereof when being interpreted.
+
+				The general use convention extends the use convention, and holds that, when
+				interpreting a ONE document as an ACE document where it is unknown whether or not
+				said document is intended as an ACE document, the use convention shall be applied
+				to said document if a use element is present within it, and if no use element is
+				present within said document, the entire document shall be interpreted as an ACE
+				document.
 			-
