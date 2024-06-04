@@ -1,0 +1,14 @@
+-
+	Kaeon ACE Content
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon ACE content component convention is a Kaeon ACE convention regarding Kaeon
+			ACE content components.
+
+			A Kaeon ACE file component is a Kaeon ACE component element with the content "Content".
+
+			It may have any children, and has no function in and of itself.
+		-

@@ -12,25 +12,38 @@
 		Principles
 	-
 		-
-			ACE Use Protocol
+			Conventions
 		-
 			-
-				The ACE use protocol causes the use command to act as a use element, integrating
-				its children into the content of the union document of the Kaeon FUSION program.
+				ACE Use Protocol
 			-
+				-
+					The ACE use protocol causes the use command to act as a use element,
+					integrating its children into the content of the union document of the Kaeon
+					FUSION program.
+				-
+			-
+				Content Use Protocol
+			-
+				-
+					The content use protocol causes the use command to interpret the content of all
+					of its children as string paths to Kaeon ACE documents to be integrated into
+					the union document of the Kaeon FUSION program, if said paths are valid.
+				-
+			-
+				Evaluate Use Protocol
+			-
+				-
+					The evaluate use protocol causes the use command to interpret all values
+					returned to it as string paths to Kaeon ACE documents to be integrated into the
+					union document of the Kaeon FUSION program, if said paths are valid.
+				-
 		-
-			Content Use Protocol
+			General Use Protocol
 		-
 			-
-				The content use protocol causes the use command to interpret the content of all of
-				its children as string paths to Kaeon ACE documents to be integrated into the union
-				document of the Kaeon FUSION program, if said paths are valid.
-			-
-		-
-			Evaluate Use Protocol
-		-
-			-
-				The evaluate use protocol causes the use command to interpret all values returned
-				to it as string paths to Kaeon ACE documents to be integrated into the union
-				document of the Kaeon FUSION program, if said paths are valid.
+				The general use protocol applies to Kaeon FUSION code which contains no use
+				command, in cases where the union document of the Kaeon FUSION program is empty, to
+				apply the general use convention to said code and to integrate the resulting usage
+				document into the union document of said program.
 			-
