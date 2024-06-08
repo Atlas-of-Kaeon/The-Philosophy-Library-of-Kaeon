@@ -82,10 +82,10 @@
 					The path component is a Kaeon ACE component which may have an indefinite number
 					of children that specify trace classes for ONE elements or for Kaeon ACE
 					entities, specifying said classes in the order of their element indices,
-					forming a trace path to the origin element of target of the query entities to
-					which it applies from the root of the documents that said targets are located
-					in, the origin element either being the target itself or the reference point
-					relative to which the target is defined by some other criteria.
+					forming a trace path to the origin element of the target of the query entities
+					to which it applies from the root of the documents that said targets are
+					located in, the origin element either being the target itself or the reference
+					point relative to which the target is defined by some other criteria.
 
 					The children of the path component may either specify tag trace classes or
 					model trace classes.
