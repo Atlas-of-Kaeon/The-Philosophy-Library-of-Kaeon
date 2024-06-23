@@ -229,7 +229,7 @@ All of the documents within the Philosophy Library of Kaeon are stored in a syst
 subfolders of each folder are numbered.
 
 Each folder in the Philosophy Library of Kaeon contains, in addition to an indefinite amount of
-other folders, a single text document, which is written in the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Kaeon%20United/3%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/2%20-%20ONE/1%20-%20ONE/README.md)
+other folders, a single text document, which is written in the [ONE](https://github.com/Kaeon-United/Kaeon-United/blob/main/Kaeon%20United/2%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/1%20-%20ONE/README.md)
 data interchange format and which adheres to the Kaeon document format.
 
 If reading through the Philosophy Library of Kaeon in order, one should begin at the root folder,
@@ -238,11 +238,11 @@ each sub folder in numerical order, repeating this process recursively with each
 
 #### ONE
 
-The reason that the [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Kaeon%20United/3%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/2%20-%20ONE/1%20-%20ONE/README.md)
+The reason that the [ONE](https://github.com/Kaeon-United/Kaeon-United/blob/main/Kaeon%20United/2%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/1%20-%20ONE/README.md)
 format is used, in addition to the practical benefits that it shares in common with all structured
 plain text formats, is because, despite being a plain text format, it functions well as a basis for
 human-readable documents, and because, by virtue of being a plain text format, it works well as a
-computer programming tool, thus documents written in [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Kaeon%20United/3%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/2%20-%20ONE/1%20-%20ONE/README.md)
+computer programming tool, thus documents written in [ONE](https://github.com/Kaeon-United/Kaeon-United/blob/main/Kaeon%20United/2%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/1%20-%20ONE/README.md)
 have the unique attribute of being able to simultaneously express both soft and hard power with
 little compromise.
 
@@ -262,7 +262,7 @@ While the Philosophy Library of Kaeon itself only references A-O as a symbolic s
 may be indefinitely expanded upon and critiqued through other Kaeon libraries which connect to it,
 either directly or indirectly.
 
-Furthermore, the application of [ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Kaeon%20United/3%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/2%20-%20ONE/1%20-%20ONE/README.md),
+Furthermore, the application of [ONE](https://github.com/Kaeon-United/Kaeon-United/blob/main/Kaeon%20United/2%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/1%20-%20ONE/README.md),
 Kaeon libraries, and Kaeon library atlases to topics beyond Angaianism could serve as the basis for
 new forms of literature, and by contributing to Kaeon library atlases, people could contribute
 their knowledge to an ever growing, open, and decentralized discourse on all manner of subjects,
