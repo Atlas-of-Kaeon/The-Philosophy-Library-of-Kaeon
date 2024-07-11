@@ -83,19 +83,19 @@
 					traversal and the next trace class of the iteration over the given trace path,
 					with the lowest trace index for a standard trace path traversal, or with any
 					other index for an atypical trace path traversal.
-
-					For a given trace path traversal, the range of the trace degrees of each
-					jump made in the course of said traversal is referred to as the trace range
-					of said traversal, the lowest number in said range being referred to as the
-					trace minimum of said traversal, and the highest number in said range being
-					referred to as the trace maximum of said traversal.
-
+					
+					For a given trace path traversal, the range of the trace degrees of each jump
+					made in the course of said traversal is referred to as the trace range of said
+					traversal, the lowest number in said range being referred to as the trace
+					minimum of said traversal, and the highest number in said range being referred
+					to as the trace maximum of said traversal.
+					
 					A trace path traversal with a trace maximum of one is referred to as a
 					normalized trace path traversal.
-
-					A trace path traversal where certain jumps cannot be made due to the
-					specified descendant not existing is referred to as invalid, whereas any
-					other trace path traversal is referred to as valid.
+					
+					A trace path traversal where certain jumps cannot be made due to the specified
+					descendant not existing is referred to as invalid, whereas any other trace path
+					traversal is referred to as valid.
 				-
 		-
 			Trace Filtering

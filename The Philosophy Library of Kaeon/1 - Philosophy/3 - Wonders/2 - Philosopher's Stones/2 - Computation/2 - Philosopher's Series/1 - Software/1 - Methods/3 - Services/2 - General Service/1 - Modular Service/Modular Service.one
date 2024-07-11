@@ -22,18 +22,18 @@
 					Depending on the command line arguments, a modular service may, among other
 					things, install plugins, uninstall plugins, and list plugins currently
 					installed.
-
+					
 					Each of said plugins shall have a unique string alias.
-
-					Plugins installed while any applications spawned by the service are running
-					may be dynamically integrated into said applications at runtime.
+					
+					Plugins installed while any applications spawned by the service are running may
+					be dynamically integrated into said applications at runtime.
 				-
 			-
 				Plugin Packages
 			-
 				-
 					A plugin package is a set of plugins.
-
+					
 					A package plugin is a plugin package distributed as a single plugin.
 				-
 		-

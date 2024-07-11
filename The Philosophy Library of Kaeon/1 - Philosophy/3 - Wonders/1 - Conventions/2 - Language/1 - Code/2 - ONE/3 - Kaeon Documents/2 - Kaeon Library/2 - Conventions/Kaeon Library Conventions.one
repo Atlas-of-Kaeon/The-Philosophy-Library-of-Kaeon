@@ -7,7 +7,7 @@
 		-
 			The Kaeon library conventions are a set of standards for how a Kaeon library should
 			typically be configured.
-
+			
 			A standard Kaeon library that abides by the Kaeon library conventions is referred to as
 			a conventional Kaeon library.
 		-
@@ -38,7 +38,7 @@
 						contain all of the library's Kaeon documents which are meant to be read
 						manually, aside from those used to specify information about said library's
 						Universal Atlas connections.
-
+						
 						The philosophy folder may only contain library directories.
 					-
 				-
@@ -50,21 +50,21 @@
 						documents, and which shall be interpreted as Kaeon library ACE to derive a
 						usage document called the library document of said Kaeon library, which
 						shall be used to specify metadata regarding said Kaeon library.
-
+						
 						The Kaeon document utilities within a Kaeon library document shall
 						constitute the meta library of said Kaeon library document.
-
+						
 						Kaeon ACE entities within a library document may have the Kaeon Library
 						component attached, which has the alias "Kaeon Library", which indicates
 						that said entity specifies a resource that said Kaeon Library is connected
 						to within the universal atlas.
-
+						
 						The aliases of said entities shall be the names of said resources, and said
 						entities may use interface ACE to specify the content or location of said
 						resources.
-
+						
 						The principles folder may only contain library directories.
-
+						
 						A codified protocol specifying additional ways in which the contents of a
 						library document may be used to specify metadata regarding its library is
 						referred to as a Kaeon library protocol.
@@ -77,7 +77,7 @@
 						"Wonders" folder nested in its root, which shall contain all of the
 						library's contents which do not belong in the philosophy or principles
 						folders.
-
+						
 						The wonders folder may contain both library directories and general
 						directories.
 					-
@@ -110,10 +110,10 @@
 				Kaeon Library Overlay
 			-
 				-
-					A Kaeon library atlas may be combined using a form of folder overlay where
-					the subfolders of library directories are ordered according to the meta
-					order of the atlas, their indices and names being reassigned accordingly,
-					and where the library directory documents of library directories, if there
-					are multiple them, are combined into a single poly Kaeon document with its
-					constituent documents ordered according to the meta order of the atlas.
+					A Kaeon library atlas may be combined using a form of folder overlay where the
+					subfolders of library directories are ordered according to the meta order of
+					the atlas, their indices and names being reassigned accordingly, and where the
+					library directory documents of library directories, if there are multiple them,
+					are combined into a single poly Kaeon document with its constituent documents
+					ordered according to the meta order of the atlas.
 				-
