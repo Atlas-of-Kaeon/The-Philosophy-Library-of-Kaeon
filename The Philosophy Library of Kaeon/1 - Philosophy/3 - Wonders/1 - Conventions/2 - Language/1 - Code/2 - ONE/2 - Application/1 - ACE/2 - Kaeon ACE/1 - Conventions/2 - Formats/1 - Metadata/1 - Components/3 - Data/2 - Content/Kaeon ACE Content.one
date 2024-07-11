@@ -8,7 +8,11 @@
 			The Kaeon ACE content component convention is a Kaeon ACE convention regarding Kaeon
 			ACE content components.
 
-			A Kaeon ACE file component is a Kaeon ACE component element with the content "Content".
+			A Kaeon ACE content component is a Kaeon ACE component element with the content
+			"Content". It may also be used as a Kaeon ACE subcomponent.
 
 			It may have any children, and has no function in and of itself.
+
+			Codified conventions for the children and effects of Kaeon ACE content components are
+			referred to as Kaeon ACE content conventions.
 		-
