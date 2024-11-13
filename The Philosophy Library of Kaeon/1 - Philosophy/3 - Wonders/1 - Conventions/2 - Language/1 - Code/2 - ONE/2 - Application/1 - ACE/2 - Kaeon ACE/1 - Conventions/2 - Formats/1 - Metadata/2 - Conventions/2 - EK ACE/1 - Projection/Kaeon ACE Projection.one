@@ -1,0 +1,15 @@
+-
+	Kaeon ACE Projection
+-
+	-
+		Philosophy
+	-
+		-
+			The Kaeon ACE projection component convention is a Kaeon ACE convention regarding Kaeon
+			ACE projection components.
+
+			A Kaeon ACE projection component is a Kaeon ACE component element with the content
+			"Projection", the children of which constitute a Kaeon ACE document, the contents of
+			which shall be integrated into any Kaeon ACE entity that the entity to which it belongs
+			points to with ACE references.
+		-

@@ -6,9 +6,10 @@
 	-
 		-
 			Standard Kaeon ACE is a set of Kaeon ACE conventions consisting of the Kaeon ACE META
-			component convention, the Kaeon ACE void component convention, the Kaeon ACE global
-			component convention, the Kaeon ACE reserve component convention, and the query ACE
-			conventions.
+			component convention, Kaeon ACE Alias component convention, the Kaeon ACE void
+			component convention, the Kaeon ACE global component convention, the Kaeon ACE reserve
+			component convention, the query ACE and EK ACE conventions, and the Kaeon ACE
+			projection component convention.
 		-
 	-
 		Principles
