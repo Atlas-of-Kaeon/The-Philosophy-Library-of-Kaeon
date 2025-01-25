@@ -14,10 +14,27 @@
 		Principles
 	-
 		-
-			Mirror Vault
+			Layers
 		-
 			-
-				A mirror vault is a section of an external Philosopher's Vault stored within an
-				application and mapped to the same Philosopher's Corpus, such that changes made to
-				it persist to said external Philosopher's Vault.
+				All data operated on by a system can be considered to constitute a Philosopher's
+				Vault. The internal state of said system can be said to constitute the inner layer
+				of the vault, and the databases external to said system can be said to constitute
+				the external layer of the vault.
+
+				Vault entanglement is a where a section of a Philosopher's Vault's is mapped to a
+				section of the same Philosopher's Vault's or of another via a Philosopher's Corpus,
+				such that changes made to each of said sections persist to the other.
+			-
+		-
+			Document
+		-
+			-
+				A Philosopher's Document is a serialization of the contents of a Philosopher's
+				Vault according to a Philosopher's Corpus.
+				
+				A codified protocol for serializing and deserializing the content of Philosopher's
+				Documents is referred to as a Philosopher's Document convention.
+
+				By default, a Philosopher's Document should be serialized in Kaeon ACE.
 			-

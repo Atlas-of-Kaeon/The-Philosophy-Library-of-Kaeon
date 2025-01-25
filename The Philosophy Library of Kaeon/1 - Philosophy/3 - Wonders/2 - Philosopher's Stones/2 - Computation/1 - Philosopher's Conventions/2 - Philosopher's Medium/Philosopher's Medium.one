@@ -15,11 +15,21 @@
 			Inner and Outer Operations
 		-
 			-
-				Any function specified by a Philosopher's Medium which is to be called from an
-				object that abides by said medium may also be used as an independent function which
+				Any function specified by a Philosopher's Medium which is to be called from a
+				module that abides by said medium may also be used as an independent function which
 				performs the same operation by taking said object as its first argument, followed
 				by all of the other arguments that would otherwise be passed to it.
 
 				Such functions called from within objects can be referred to as inner operations,
 				and as outer operations if called as independent functions.
+			-
+		-
+			Conventions
+		-
+			-
+				Philosopher's Mediums may contain other Philosopher's Mediums in their definition.
+				Such Philosopher's Mediums may be referred to as Philosopher's Meta-Mediums.
+
+				A node on a Philosopher's Atlas which abides by a given Philosopher's Medium may be
+				referred to as a module of said Philosopher's Medium.
 			-

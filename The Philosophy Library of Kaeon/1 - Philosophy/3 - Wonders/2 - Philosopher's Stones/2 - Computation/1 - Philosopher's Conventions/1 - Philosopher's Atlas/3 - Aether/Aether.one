@@ -5,16 +5,63 @@
 		Philosophy
 	-
 		-
-			Aether is a system that allows the interface of a regulated Philosopher's Stone module
-			to be attached to modules that exist within systems running in entirely different
-			environments.
+			An Aether Atlas is an autonomous network of devices and applications that can
+			dynamically restructure itself.
+
+			As such, an Aether atlas can be represented in abstract form as a Philosopher's Atlas.
 		-
 	-
 		Principles
 	-
 		-
-			Alias
+			Utilities
 		-
 			-
-				An Aether module may be identified via a unique string alias or path.
+				Components
 			-
+				-
+					Aether Node
+				-
+					-
+						An Aether Node is an application or device designed to function as part of
+						an Aether Atlas.
+					-
+				-
+					Aether Utility
+				-
+					-
+						An Aether Utility is an application or device that was not designed to
+						function as part of an Aether Atlas but which has nonetheless been
+						incorporated into at least one.
+					-
+				-
+					Aether State
+				-
+					-
+						An Aether State is the state of an Aether Atlas at a given time.
+					-
+			-
+				Aether Interface
+			-
+				-
+					An Aether Interface is a device or application that provides a user interface
+					to an Aether Atlas.
+
+					An Aether Call is a request made to an aether atlas to read or update its
+					Aether State.
+				-
+		-
+			Forms
+		-
+			-
+				Aether Clusters
+			-
+				-
+					Aether Clusters are Aether Atlases within Aether Atlases.
+				-
+			-
+				Aether Union
+			-
+				-
+					An Aether Union is a related but unconnected group of Aether Atlases.
+				-

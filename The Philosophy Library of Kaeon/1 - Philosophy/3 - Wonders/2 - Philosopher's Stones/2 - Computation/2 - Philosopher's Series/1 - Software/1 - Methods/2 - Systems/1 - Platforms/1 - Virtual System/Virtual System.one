@@ -16,10 +16,11 @@
 			Standard Virtual System
 		-
 			-
-				A standard virtual system provides an interface to a virtual file system through
-				its commands, provides commands for file system navigation, for file system
-				management, and for dynamically changing the available commands, and may execute
-				commands autonomously upon startup.
+				A standard virtual system provides an interface to a virtual file system, which is
+				embedded in the state of the process to which it belongs, through its commands,
+				provides commands for file system navigation, for file system management, and for
+				dynamically changing the available commands, and may execute commands autonomously
+				upon startup.
 
 				In a standard virtual system, if the name of a file is used as a command, it shall
 				run as an executable if said file is an executable file.

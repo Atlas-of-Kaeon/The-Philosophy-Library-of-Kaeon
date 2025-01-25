@@ -1,0 +1,48 @@
+-
+	Kaeon Origin Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			This document specifies conventions for Kaeon Origin.
+		-
+	-
+		Principles
+	-
+		-
+			Origin Rule
+		-
+			-
+				The Origin rule is a Kaeon ACE rule which targets any entity with a content
+				component which has a child with the content "Kaeon Origin".
+
+				Modules which match said rule are expected to be Origin modules, which export a
+				function with the alias "Origin", or an approximation of said alias as appropriate
+				for the operating environment, which may take any argument as an options parameter.
+				
+				Kaeon Origin shall run each function for each module in the Philosopher's Suite of
+				the process in which it is embedded which matches the Origin rule, passing in
+				options as appropriate, and shall integrate any non-null value returned by said
+				functions into the Axis Atlas of said process.
+			-
+		-
+			Origin Utilities
+		-
+			-
+				Origin Clock
+			-
+				-
+					The Origin clock is a node on a Philosopher's Atlas which, at regular
+					intervals, performs an open traversal with a number as its atlas packet,
+					specifying the time in seconds since the last open traversal performed by it.
+
+					Kaeon Origin shall integrate an Origin clock by default.
+				-
+			-
+				Origin Systems
+			-
+				-
+					Kaeon Origin shall serve as an interface to a standard virtual system, with a
+					manually configurable embedded virtual dot.
+				-

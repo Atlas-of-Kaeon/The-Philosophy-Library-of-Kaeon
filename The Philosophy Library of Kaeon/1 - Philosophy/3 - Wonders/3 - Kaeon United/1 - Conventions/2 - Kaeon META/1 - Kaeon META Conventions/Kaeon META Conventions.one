@@ -25,6 +25,10 @@
 					it to Kaeon META, and may return any value should Kaeon META send a value back
 					in response.
 
+					The default mechanism by which this process shall function is for an Aether
+					Call to be made with the children of the command embedded into a Kaeon ACE
+					entity as a general task component.
+
 					Furthermore, once the Kaeon United FUSION interface has been integrated, Kaeon
 					META shall be able to modify the state of the program.
 				-
@@ -33,17 +37,20 @@
 			-
 				-
 					Kaeon META shall, according to the following Philosopher's System standard, be
-					implemented upon a Philosopher's System called Kaeon Kor, for which the
+					implemented upon a Philosopher's Aether System called Kaeon Kor, for which the
 					Philosopher's Suite is Kaeon United, for which the Aether Union is called Kaeon
 					Aether, for which the Philosopher's Corpus called Kaeon Sigma, and for which
 					the Philosopher's Vault is called Kaeon Gaia.
 
 					Kaeon Aether shall have an Aether Interface called Kaeon Oracle, implemented as
-					a dynamic response platform into Kaeon Origin, which can also function as a
-					Genesis Philosopher's Seed to Kaeon Aether.
-
-					The data that a given user stores within Kaeon Kor may be collectively referred
-					to as said user's Kaeon profile.
+					a dynamic response platform. The data that a given user stores within Kaeon Kor
+					may be collectively referred to as said user's Kaeon profile.
+					
+					Kaeon Origin, which can also function as a Genesis Philosopher's Origin to
+					Kaeon Aether, and which shall be the primary application which acts as the
+					nodes of Kaeon Aether, shall integrate a dynamic task platform which shall act
+					on tasks embedded in the Aether State of Kaeon Aether, and which shall place an
+					omnitask into said Aether State by default.
 				-
 			-
 				The Kaeon Metanet

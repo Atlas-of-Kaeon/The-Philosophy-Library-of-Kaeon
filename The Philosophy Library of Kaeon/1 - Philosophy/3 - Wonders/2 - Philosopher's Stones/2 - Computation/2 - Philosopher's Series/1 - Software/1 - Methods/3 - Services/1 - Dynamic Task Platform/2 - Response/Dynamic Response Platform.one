@@ -5,11 +5,11 @@
 		Philosophy
 	-
 		-
-			A dynamic response platform, or DRP, is a collection of applications which work
-			together to interpret external prompts, called dynamic response prompts, whether
-			structured or unstructured, in various forms and in real time, and to execute said
-			prompts according to the intentions with which they were given, the results of said
-			execution being called dynamic response actions.
+			A dynamic response platform, or DRP, is a system which acts as an interface to a
+			dynamic task platform, working to interpret external prompts, called dynamic response
+			prompts, whether structured or unstructured, in various forms and in real time, and to
+			execute said prompts according to the intentions with which they were given, the
+			results of said execution being called dynamic response actions.
 		-
 	-
 		Principles

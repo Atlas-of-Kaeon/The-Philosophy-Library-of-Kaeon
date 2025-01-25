@@ -1,0 +1,36 @@
+-
+	Philosopher's Axis
+-
+	-
+		Philosophy
+	-
+		-
+			A Philosopher's Axis is a node on a Philosopher's Atlas designed specifically to
+			coordinate activity within a Philosopher's Atlas.
+		-
+	-
+		Principles
+	-
+		-
+			Philosopher's Axis Commands
+		-
+			-
+				A Philosopher's Axis command is an object that may be passed to a philosopher's
+				Axis through which it may be distributed to the rest of the Philosopher's Atlas,
+				after which another object may be returned.
+			-
+		-
+			Axis Stone
+		-
+			-
+				An Axis Stone is a globally available value within a process to which any node on a
+				Philosopher's Atlas may connect.
+
+				Unless specified otherwise, there should only be one value designated as such,
+				allowing it to serve as the common link between all Philosopher's Atlas nodes in
+				the process to which it belongs. The nodes to which an Axis Stone is directly or
+				indirectly connected constitute an Axis Atlas.
+
+				A codified convention regarding how to make use of said common link is referred to
+				as an Axis Convention.
+			-

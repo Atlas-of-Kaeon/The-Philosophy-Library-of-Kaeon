@@ -1,0 +1,81 @@
+-
+	Dynamic Task Conventions
+-
+	-
+		Philosophy
+	-
+		-
+			This document specifies conventions for dynamic task platforms.
+		-
+	-
+		Principles
+	-
+		-
+			Conventions
+		-
+			-
+				General
+			-
+				-
+					Task Types
+				-
+					-
+						A task specified in an otherwise unstructured manner is referred to as a
+						general task.
+
+						A task which is not a general task is referred to as a discrete task. A
+						codified protocol for how to specify and execute discrete tasks is referred
+						to as a discrete task convention.
+					-
+				-
+					Task Logs
+				-
+					-
+						Task logs are records of events and notes relevant to a given task which
+						are retained by the platforms processing them.
+					-
+			-
+				Kaeon ACE Task
+			-
+				-
+					The Kaeon ACE task component convention is a Kaeon ACE convention regarding
+					Kaeon ACE task components.
+
+					Kaeon ACE task components are used to specify dynamic tasks.
+
+					Task components are Kaeon ACE components with the content "Task", which shall
+					have a child with either the content "Discrete" or "General".
+
+					The children of a discrete element shall constitute a Kaeon ACE document, the
+					contents of which shall specify a discrete task for an Aether atlas to execute.
+					A discrete task convention for how such a document may specify such a task is
+					referred to as a task ACE convention.
+
+					The children of a general element shall specify a general task for an Aether
+					atlas to execute in natural language, the interpretation thereof being subject
+					to the judgement of AI.
+
+					Standard task ACE is a set of Kaeon ACE conventions consisting of the standard
+					interface ACE conventions and the Kaeon ACE task component convention.
+				-
+		-
+			Tasks
+		-
+			-
+				Relay
+			-
+				-
+					A relay task is a discrete task which specifies a packet of data to be
+					transferred across a system to a specified target.
+
+					By default, relay tasks should result in a response being sent back from the
+					target to the source.
+				-
+			-
+				Omnitask
+			-
+				-
+					An omnitask is a general task which instructs the system to perpetually read
+					and analyze its other ongoing tasks and, when appropriate, create, update, or
+					delete them.
+				-

@@ -91,4 +91,7 @@
 				-
 					A codified protocol specifying how a component element is to be interpreted
 					according to its content and children is referred to as a Kaeon ACE convention.
+
+					A codified protocol specifying the composition of Kaeon ACE elements which
+					match certain criteria is referred to as a Kaeon ACE rule.
 				-
