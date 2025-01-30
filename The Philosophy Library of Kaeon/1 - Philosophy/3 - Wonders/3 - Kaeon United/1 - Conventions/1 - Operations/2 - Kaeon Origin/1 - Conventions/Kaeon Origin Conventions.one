@@ -11,18 +11,18 @@
 		Principles
 	-
 		-
-			Origin Rule
+			Origin Class
 		-
 			-
-				The Origin rule is a Kaeon ACE rule which targets any entity with a content
-				component which has a child with the content "Kaeon Origin".
+				The Origin class is a trace class for Kaeon ACE that matches any entity with a
+				content component which has a child with the content "Kaeon Origin".
 
-				Modules which match said rule are expected to be Origin modules, which export a
+				Modules which match said class are expected to be Origin modules, which export a
 				function with the alias "Origin", or an approximation of said alias as appropriate
 				for the operating environment, which may take any argument as an options parameter.
 				
 				Kaeon Origin shall run each function for each module in the Philosopher's Suite of
-				the process in which it is embedded which matches the Origin rule, passing in
+				the process in which it is embedded which matches the Origin class, passing in
 				options as appropriate, and shall integrate any non-null value returned by said
 				functions into the Axis Atlas of said process.
 			-
